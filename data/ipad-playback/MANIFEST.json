@@ -1,0 +1,30 @@
+{
+  "status": "joint-only public subset copied from Luka iPad app; software provenance, not model validation",
+  "device_sha256_status": "on-device SHA-256 unavailable; recorded hashes are of verified-size local copies",
+  "files": [
+    {
+      "path": "recordings/luka-20261019-115249-legs.a2rec",
+      "bytes": 4643209,
+      "sha256": "dd94b3ea4df0e5e22a30a28535c851bec97d9d65ae8be0f041baec1ad00bd163",
+      "topic": "a2remote/joints",
+      "messages": 4921,
+      "source": "Luka app Documents on paired iPad Air M3; device-listed byte count matched copied file"
+    },
+    {
+      "path": "recordings/luka-20261022-125322-arm.a2rec",
+      "bytes": 6315594,
+      "sha256": "18e273a35ac8042f5b331086523fdd2d76b3eb91231c13e1f688798cb418b0a2",
+      "topic": "a2remote/joints",
+      "messages": 6679,
+      "source": "Luka app Documents on paired iPad Air M3; device-listed byte count matched copied file"
+    },
+    {
+      "path": "recordings/luka-20261022-191420.a2rec",
+      "bytes": 6394822,
+      "sha256": "1916532f7dcd4d4ec990fdc01c05b50285517cda1781c13cf85ec94cd4683b2c",
+      "topic": "a2remote/joints",
+      "messages": 5053,
+      "source": "Luka app Documents on paired iPad Air M3; device-listed byte count matched copied file"
+    }
+  ]
+}

@@ -1,5 +1,12 @@
 # Research log
 
+## 2026-10-26 — iPad joint-only public subset
+
+- The paired iPad Air 11-inch (M3) had Luka app `com.mdeanproductions.luka` v0.3. Its app Documents were copied to a private local evidence folder with original filenames and device modification times. All 12 copied file sizes matched the live device listing; SHA-256 was computed after copying because the device API does not expose hashes.
+- Three app playback files total 17,353,625 bytes and contain only `a2remote/joints` records. All decoded payloads used keys `t`, `j`, and `src`; no camera, depth, LiDAR, or room-map topic appeared. The original bytes and their hashes are included under `data/ipad-playback/`.
+- The app also held a room-map PLY and two nonempty live recordings containing media/sensor streams; these stay in a private backup. The app figure's 30 onboard-derived meshes are distinct from the public vendor meshes and have no stated redistribution license, so they stay private as well.
+- This is software/file evidence. The recordings' coordinate meanings and the public twin's fit to Luka are not physically validated.
+
 ## 2026-10-26 — first GitHub model export
 
 - Exported the generated Luka candidate XML, report, parameter ledger, build/inspection scripts, and pristine public AgiBot A2 vendor files from the independent Luka working copy. The source project's selected model files were unchanged in its Git working tree at export; its HEAD was `08820939f675e8db4173cb969c9add814e7593a2`.

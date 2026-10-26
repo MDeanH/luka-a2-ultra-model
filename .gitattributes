@@ -1,3 +1,4 @@
 *.stl binary
 *.png binary
 *.csv whitespace=cr-at-eol
+*.a2rec binary
