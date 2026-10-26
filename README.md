@@ -6,6 +6,16 @@ This repository contains a **MuJoCo model candidate** for Luka, a full-size AgiB
 
 Open [`build/luka_as_is.xml`](build/luka_as_is.xml) in MuJoCo to load the assembled model. Keep the `build/` and `vendor/agibot_a2/` directories in their current relative positions: the XML references the mesh files there.
 
+## Put Luka in a simulator
+
+Start with the [MuJoCo simulation guide](sim/README.md). It includes a separate [floating-base, floor-contact candidate](build/luka_contact_candidate.xml), a fixed-base training-pipeline environment, and a checked pose preview for the iPad recordings. Run the software integration check from this repo's root:
+
+```sh
+.venv/bin/python -I sim/check_integration.py
+```
+
+The floating model falls under zero control, and the fixed-base example tunes PD gains for a synthetic leg posture task. Neither is a validated walking or balance environment for Luka. The vendor x86 balance controller is not modeled here.
+
 ## What is in this repository
 
 - `build/luka_as_is.xml` — generated, readable MuJoCo model; its numeric values are rounded by MuJoCo's XML writer.
