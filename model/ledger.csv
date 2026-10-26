@@ -1,0 +1,1188 @@
+param,value,unit,source,status,date,evidence,note
+link.base_link.mass,20.4197,kg,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.base_link.com.x,-0.06893,m,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.base_link.com.y,0.00034,m,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.base_link.com.z,0.17523,m,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.base_link.inertia.ixx,0.6018644,kg*m^2,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.base_link.inertia.iyy,0.5693776,kg*m^2,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.base_link.inertia.izz,0.1900957,kg*m^2,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.base_link.inertia.ixy,-0.0007320,kg*m^2,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.base_link.inertia.ixz,0.0031931,kg*m^2,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.base_link.inertia.iyz,-0.0008633,kg*m^2,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.left_hip_roll.mass,2.3646,kg,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.left_hip_roll.com.x,-0.00005,m,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.left_hip_roll.com.y,0.02144,m,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.left_hip_roll.com.z,-0.06458,m,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.left_hip_roll.inertia.ixx,0.0037046,kg*m^2,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.left_hip_roll.inertia.iyy,0.0035999,kg*m^2,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.left_hip_roll.inertia.izz,0.0032147,kg*m^2,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.left_hip_roll.inertia.ixy,0.0000048,kg*m^2,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.left_hip_roll.inertia.ixz,0.0000041,kg*m^2,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.left_hip_roll.inertia.iyz,0.0001852,kg*m^2,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.left_hip_yaw.mass,3.7387,kg,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.left_hip_yaw.com.x,0.00003,m,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.left_hip_yaw.com.y,0.01291,m,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.left_hip_yaw.com.z,0.10977,m,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.left_hip_yaw.inertia.ixx,0.0092390,kg*m^2,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.left_hip_yaw.inertia.iyy,0.0147804,kg*m^2,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.left_hip_yaw.inertia.izz,0.0071038,kg*m^2,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.left_hip_yaw.inertia.ixy,-0.0000010,kg*m^2,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.left_hip_yaw.inertia.ixz,-0.0000017,kg*m^2,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.left_hip_yaw.inertia.iyz,-0.0003888,kg*m^2,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.left_hip_pitch.mass,6.2946,kg,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.left_hip_pitch.com.x,-0.07190,m,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.left_hip_pitch.com.y,0.00657,m,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.left_hip_pitch.com.z,0.01835,m,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.left_hip_pitch.inertia.ixx,0.0144573,kg*m^2,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.left_hip_pitch.inertia.iyy,0.0962715,kg*m^2,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.left_hip_pitch.inertia.izz,0.1022428,kg*m^2,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.left_hip_pitch.inertia.ixy,0.0048430,kg*m^2,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.left_hip_pitch.inertia.ixz,-0.0075696,kg*m^2,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.left_hip_pitch.inertia.iyz,0.0008681,kg*m^2,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.left_tarsus.mass,3.3145,kg,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.left_tarsus.com.x,-0.18220,m,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.left_tarsus.com.y,-0.00026,m,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.left_tarsus.com.z,-0.00002,m,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.left_tarsus.inertia.ixx,0.0041368,kg*m^2,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.left_tarsus.inertia.iyy,0.0279771,kg*m^2,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.left_tarsus.inertia.izz,0.0299974,kg*m^2,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.left_tarsus.inertia.ixy,-0.0023206,kg*m^2,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.left_tarsus.inertia.ixz,0.0007601,kg*m^2,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.left_tarsus.inertia.iyz,-0.0000438,kg*m^2,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.left_toe_pitch.mass,0.0699,kg,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.left_toe_pitch.com.x,0.00003,m,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.left_toe_pitch.com.y,0.0,m,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.left_toe_pitch.com.z,-0.00093,m,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.left_toe_pitch.inertia.ixx,0.0000133,kg*m^2,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.left_toe_pitch.inertia.iyy,0.0000158,kg*m^2,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.left_toe_pitch.inertia.izz,0.0000068,kg*m^2,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.left_toe_pitch.inertia.ixy,0.0,kg*m^2,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.left_toe_pitch.inertia.ixz,0.0,kg*m^2,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.left_toe_pitch.inertia.iyz,0.0,kg*m^2,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.left_toe_roll.mass,1.2068,kg,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.left_toe_roll.com.x,-0.03941,m,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.left_toe_roll.com.y,-0.00020,m,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.left_toe_roll.com.z,0.02378,m,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.left_toe_roll.inertia.ixx,0.0070652,kg*m^2,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.left_toe_roll.inertia.iyy,0.0066579,kg*m^2,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.left_toe_roll.inertia.izz,0.0010250,kg*m^2,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.left_toe_roll.inertia.ixy,0.0,kg*m^2,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.left_toe_roll.inertia.ixz,0.0003185,kg*m^2,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.left_toe_roll.inertia.iyz,0.0,kg*m^2,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.left_toe_A.mass,0.0959876868449394,kg,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.left_toe_A.com.x,0.0161339967539726,m,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.left_toe_A.com.y,0.000256129454551002,m,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.left_toe_A.com.z,0.00157429551114607,m,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.left_toe_A.inertia.ixx,1.47306660350068E-05,kg*m^2,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.left_toe_A.inertia.iyy,5.94672539950203E-05,kg*m^2,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.left_toe_A.inertia.izz,6.68731361080011E-05,kg*m^2,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.left_toe_A.inertia.ixy,7.10372384628399E-07,kg*m^2,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.left_toe_A.inertia.ixz,1.01514226468701E-05,kg*m^2,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.left_toe_A.inertia.iyz,1.61153684004436E-07,kg*m^2,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.left_toe_A_rod.mass,0.133194826485547,kg,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.left_toe_A_rod.com.x,-0.11950903764711,m,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.left_toe_A_rod.com.y,-4.54312300279813E-09,m,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.left_toe_A_rod.com.z,2.0722082788957E-05,m,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.left_toe_A_rod.inertia.ixx,4.13825335822083E-06,kg*m^2,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.left_toe_A_rod.inertia.iyy,0.000625059882342822,kg*m^2,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.left_toe_A_rod.inertia.izz,0.000627531716420437,kg*m^2,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.left_toe_A_rod.inertia.ixy,6.85930711305851E-12,kg*m^2,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.left_toe_A_rod.inertia.ixz,2.45335802357092E-09,kg*m^2,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.left_toe_A_rod.inertia.iyz,2.33641130593936E-12,kg*m^2,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.left_toe_B.mass,0.0959876865489089,kg,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.left_toe_B.com.x,0.0161339965985728,m,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.left_toe_B.com.y,0.000256125750057401,m,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.left_toe_B.com.z,-0.00157429547986562,m,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.left_toe_B.inertia.ixx,1.47306660936761E-05,kg*m^2,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.left_toe_B.inertia.iyy,5.94672535179347E-05,kg*m^2,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.left_toe_B.inertia.izz,6.68731357299622E-05,kg*m^2,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.left_toe_B.inertia.ixy,7.10374422550964E-07,kg*m^2,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.left_toe_B.inertia.ixz,-1.0151422567557E-05,kg*m^2,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.left_toe_B.inertia.iyz,-1.61154476946449E-07,kg*m^2,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.left_toe_B_rod.mass,0.0989853087337602,kg,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.left_toe_B_rod.com.x,-0.0725000006179941,m,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.left_toe_B_rod.com.y,2.39833153337088E-11,m,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.left_toe_B_rod.com.z,2.75483156604583E-05,m,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.left_toe_B_rod.inertia.ixx,3.41390504492216E-06,kg*m^2,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.left_toe_B_rod.inertia.iyy,0.000168898913472365,kg*m^2,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.left_toe_B_rod.inertia.izz,0.000171065639810982,kg*m^2,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.left_toe_B_rod.inertia.ixy,-7.00234342247419E-12,kg*m^2,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.left_toe_B_rod.inertia.ixz,-1.67152635087163E-13,kg*m^2,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.left_toe_B_rod.inertia.iyz,-6.91334604265453E-15,kg*m^2,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.right_hip_roll.mass,2.3646,kg,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.right_hip_roll.com.x,0.00002,m,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.right_hip_roll.com.y,0.02144,m,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.right_hip_roll.com.z,-0.06453,m,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.right_hip_roll.inertia.ixx,0.0037035,kg*m^2,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.right_hip_roll.inertia.iyy,0.0035991,kg*m^2,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.right_hip_roll.inertia.izz,0.0032150,kg*m^2,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.right_hip_roll.inertia.ixy,-0.0000046,kg*m^2,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.right_hip_roll.inertia.ixz,-0.0000055,kg*m^2,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.right_hip_roll.inertia.iyz,0.0001810,kg*m^2,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.right_hip_yaw.mass,3.7387,kg,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.right_hip_yaw.com.x,0.00001,m,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.right_hip_yaw.com.y,-0.01291,m,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.right_hip_yaw.com.z,0.10977,m,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.right_hip_yaw.inertia.ixx,0.0092390,kg*m^2,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.right_hip_yaw.inertia.iyy,0.0147804,kg*m^2,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.right_hip_yaw.inertia.izz,0.0071038,kg*m^2,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.right_hip_yaw.inertia.ixy,-0.0000010,kg*m^2,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.right_hip_yaw.inertia.ixz,0.0000017,kg*m^2,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.right_hip_yaw.inertia.iyz,0.0003888,kg*m^2,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.right_hip_pitch.mass,6.2850,kg,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.right_hip_pitch.com.x,-0.07029,m,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.right_hip_pitch.com.y,0.00700,m,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.right_hip_pitch.com.z,-0.01828,m,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.right_hip_pitch.inertia.ixx,0.0146812,kg*m^2,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.right_hip_pitch.inertia.iyy,0.0942134,kg*m^2,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.right_hip_pitch.inertia.izz,0.1003721,kg*m^2,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.right_hip_pitch.inertia.ixy,0.0047367,kg*m^2,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.right_hip_pitch.inertia.ixz,0.0076334,kg*m^2,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.right_hip_pitch.inertia.iyz,-0.0009145,kg*m^2,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.right_tarsus.mass,3.3127,kg,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.right_tarsus.com.x,-0.18216,m,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.right_tarsus.com.y,-0.00054,m,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.right_tarsus.com.z,0.00049,m,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.right_tarsus.inertia.ixx,0.0040887,kg*m^2,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.right_tarsus.inertia.iyy,0.0279331,kg*m^2,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.right_tarsus.inertia.izz,0.0299061,kg*m^2,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.right_tarsus.inertia.ixy,-0.0022629,kg*m^2,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.right_tarsus.inertia.ixz,-0.0007574,kg*m^2,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.right_tarsus.inertia.iyz,0.0000435,kg*m^2,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.right_toe_pitch.mass,0.0699,kg,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.right_toe_pitch.com.x,0.00003,m,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.right_toe_pitch.com.y,0.0,m,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.right_toe_pitch.com.z,0.00217,m,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.right_toe_pitch.inertia.ixx,0.0000133,kg*m^2,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.right_toe_pitch.inertia.iyy,0.0000158,kg*m^2,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.right_toe_pitch.inertia.izz,0.0000068,kg*m^2,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.right_toe_pitch.inertia.ixy,-0.0000003,kg*m^2,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.right_toe_pitch.inertia.ixz,0.0,kg*m^2,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.right_toe_pitch.inertia.iyz,0.0,kg*m^2,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.right_toe_roll.mass,1.2068,kg,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.right_toe_roll.com.x,-0.03940,m,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.right_toe_roll.com.y,-0.00055,m,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.right_toe_roll.com.z,0.02378,m,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.right_toe_roll.inertia.ixx,0.0070652,kg*m^2,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.right_toe_roll.inertia.iyy,0.0066581,kg*m^2,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.right_toe_roll.inertia.izz,0.0010252,kg*m^2,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.right_toe_roll.inertia.ixy,0.0,kg*m^2,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.right_toe_roll.inertia.ixz,0.0003184,kg*m^2,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.right_toe_roll.inertia.iyz,0.0,kg*m^2,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.right_toe_A.mass,0.0959876865493352,kg,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.right_toe_A.com.x,0.0161564618609389,m,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.right_toe_A.com.y,0.00025642819293159,m,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.right_toe_A.com.z,-0.001574295479989,m,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.right_toe_A.inertia.ixx,1.47306517352712E-05,kg*m^2,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.right_toe_A.inertia.iyy,5.94672678768343E-05,kg*m^2,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.right_toe_A.inertia.izz,6.68731357306057E-05,kg*m^2,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.right_toe_A.inertia.ixy,7.09922163047177E-07,kg*m^2,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.right_toe_A.inertia.ixz,-1.01514241960403E-05,kg*m^2,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.right_toe_A.inertia.iyz,-1.61051852281769E-07,kg*m^2,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.right_toe_A_rod.mass,0.133194826485545,kg,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.right_toe_A_rod.com.x,-0.119506775010566,m,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.right_toe_A_rod.com.y,2.76775022988937E-05,m,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.right_toe_A_rod.com.z,2.07236899269908E-05,m,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.right_toe_A_rod.inertia.ixx,4.13825457277786E-06,kg*m^2,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.right_toe_A_rod.inertia.iyy,0.00062505988112825,kg*m^2,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.right_toe_A_rod.inertia.izz,0.000627531716420421,kg*m^2,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.right_toe_A_rod.inertia.ixy,2.68995206710072E-08,kg*m^2,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.right_toe_A_rod.inertia.ixz,2.45335787860636E-09,kg*m^2,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.right_toe_A_rod.inertia.iyz,2.44266827827242E-12,kg*m^2,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.right_toe_B.mass,0.0959876868444429,kg,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.right_toe_B.com.x,0.0161605408863716,m,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.right_toe_B.com.y,0.000255895525077321,m,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.right_toe_B.com.z,0.00157429551102603,m,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.right_toe_B.inertia.ixx,1.47306045969354E-05,kg*m^2,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.right_toe_B.inertia.iyy,5.94673154325773E-05,kg*m^2,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.right_toe_B.inertia.izz,6.68731361073396E-05,kg*m^2,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.right_toe_B.inertia.ixy,7.08435168511415E-07,kg*m^2,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.right_toe_B.inertia.ixz,1.01514296159037E-05,kg*m^2,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.right_toe_B.inertia.iyz,1.60714100188362E-07,kg*m^2,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.right_toe_B_rod.mass,0.0989853087337611,kg,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.right_toe_B_rod.com.x,-0.0724977388604912,m,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.right_toe_B_rod.com.y,2.97174338039705E-05,m,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.right_toe_B_rod.com.z,2.75478483252878E-05,m,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.right_toe_B_rod.inertia.ixx,3.41390533484477E-06,kg*m^2,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.right_toe_B_rod.inertia.iyy,0.000168898913182443,kg*m^2,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.right_toe_B_rod.inertia.izz,0.000171065639810983,kg*m^2,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.right_toe_B_rod.inertia.ixy,7.16306173866274E-09,kg*m^2,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.right_toe_B_rod.inertia.ixz,-1.67153379781756E-13,kg*m^2,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.right_toe_B_rod.inertia.iyz,-6.92078088288279E-15,kg*m^2,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.left_arm_link01.mass,0.2791,kg,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.left_arm_link01.com.x,-0.00178,m,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.left_arm_link01.com.y,0.00890,m,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.left_arm_link01.com.z,0.03374,m,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.left_arm_link01.inertia.ixx,0.0005867,kg*m^2,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.left_arm_link01.inertia.iyy,0.0003685,kg*m^2,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.left_arm_link01.inertia.izz,0.0005358,kg*m^2,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.left_arm_link01.inertia.ixy,-0.0000051,kg*m^2,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.left_arm_link01.inertia.ixz,-0.0000031,kg*m^2,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.left_arm_link01.inertia.iyz,0.0000535,kg*m^2,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.left_arm_link02.mass,2.8105,kg,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.left_arm_link02.com.x,-0.00041,m,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.left_arm_link02.com.y,-0.05231,m,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.left_arm_link02.com.z,0.00330,m,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.left_arm_link02.inertia.ixx,0.0117766,kg*m^2,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.left_arm_link02.inertia.iyy,0.0027682,kg*m^2,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.left_arm_link02.inertia.izz,0.0115274,kg*m^2,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.left_arm_link02.inertia.ixy,0.0000349,kg*m^2,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.left_arm_link02.inertia.ixz,-0.0000001,kg*m^2,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.left_arm_link02.inertia.iyz,0.0001464,kg*m^2,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.left_arm_link03.mass,1.3510,kg,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.left_arm_link03.com.x,0.00049,m,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.left_arm_link03.com.y,0.00634,m,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.left_arm_link03.com.z,0.08017,m,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.left_arm_link03.inertia.ixx,0.0022729,kg*m^2,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.left_arm_link03.inertia.iyy,0.0023938,kg*m^2,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.left_arm_link03.inertia.izz,0.0012421,kg*m^2,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.left_arm_link03.inertia.ixy,-0.0000194,kg*m^2,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.left_arm_link03.inertia.ixz,0.0000928,kg*m^2,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.left_arm_link03.inertia.iyz,0.0000240,kg*m^2,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.left_arm_link04.mass,0.68884,kg,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.left_arm_link04.com.x,0.00472,m,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.left_arm_link04.com.y,-0.06763,m,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.left_arm_link04.com.z,-0.00679,m,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.left_arm_link04.inertia.ixx,0.0008581,kg*m^2,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.left_arm_link04.inertia.iyy,0.0005102,kg*m^2,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.left_arm_link04.inertia.izz,0.0007358,kg*m^2,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.left_arm_link04.inertia.ixy,0.0000004,kg*m^2,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.left_arm_link04.inertia.ixz,-0.0000025,kg*m^2,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.left_arm_link04.inertia.iyz,0.0002256,kg*m^2,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.left_arm_link05.mass,0.7298,kg,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.left_arm_link05.com.x,0.00710,m,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.left_arm_link05.com.y,-0.00001,m,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.left_arm_link05.com.z,0.07157,m,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.left_arm_link05.inertia.ixx,0.0014530,kg*m^2,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.left_arm_link05.inertia.iyy,0.0012147,kg*m^2,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.left_arm_link05.inertia.izz,0.0005355,kg*m^2,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.left_arm_link05.inertia.ixy,0.0000002,kg*m^2,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.left_arm_link05.inertia.ixz,0.0000108,kg*m^2,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.left_arm_link05.inertia.iyz,0.0000012,kg*m^2,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.left_arm_link06.mass,0.0264,kg,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.left_arm_link06.com.x,0.00012,m,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.left_arm_link06.com.y,-0.00454,m,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.left_arm_link06.com.z,0.00000000,m,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.left_arm_link06.inertia.ixx,0.0000027,kg*m^2,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.left_arm_link06.inertia.iyy,0.0000023,kg*m^2,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.left_arm_link06.inertia.izz,0.0000008,kg*m^2,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.left_arm_link06.inertia.ixy,0.00000000,kg*m^2,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.left_arm_link06.inertia.ixz,0.00000000,kg*m^2,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.left_arm_link06.inertia.iyz,0.00000000,kg*m^2,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.left_arm_link07.mass,0.0229,kg,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.left_arm_link07.com.x,-0.01106,m,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.left_arm_link07.com.y,0.0,m,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.left_arm_link07.com.z,0.00793,m,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.left_arm_link07.inertia.ixx,0.0000031,kg*m^2,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.left_arm_link07.inertia.iyy,0.0000047,kg*m^2,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.left_arm_link07.inertia.izz,0.0000048,kg*m^2,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.left_arm_link07.inertia.ixy,0.0000000,kg*m^2,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.left_arm_link07.inertia.ixz,-0.0000006,kg*m^2,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.left_arm_link07.inertia.iyz,0.00000000,kg*m^2,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.right_arm_link01.mass,0.2791,kg,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.right_arm_link01.com.x,-0.00182,m,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.right_arm_link01.com.y,0.00889,m,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.right_arm_link01.com.z,-0.03374,m,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.right_arm_link01.inertia.ixx,0.0005866,kg*m^2,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.right_arm_link01.inertia.iyy,0.0003684,kg*m^2,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.right_arm_link01.inertia.izz,0.0005359,kg*m^2,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.right_arm_link01.inertia.ixy,-0.0000055,kg*m^2,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.right_arm_link01.inertia.ixz,0.0000032,kg*m^2,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.right_arm_link01.inertia.iyz,-0.0000535,kg*m^2,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.right_arm_link02.mass,2.8300,kg,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.right_arm_link02.com.x,0.00004,m,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.right_arm_link02.com.y,0.05207,m,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.right_arm_link02.com.z,0.00330,m,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.right_arm_link02.inertia.ixx,0.0118261,kg*m^2,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.right_arm_link02.inertia.iyy,0.0028124,kg*m^2,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.right_arm_link02.inertia.izz,0.0115964,kg*m^2,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.right_arm_link02.inertia.ixy,-0.0000112,kg*m^2,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.right_arm_link02.inertia.ixz,-0.0000029,kg*m^2,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.right_arm_link02.inertia.iyz,-0.0001484,kg*m^2,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.right_arm_link03.mass,1.2968,kg,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.right_arm_link03.com.x,-0.00096,m,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.right_arm_link03.com.y,0.00583,m,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.right_arm_link03.com.z,-0.08207,m,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.right_arm_link03.inertia.ixx,0.0019988,kg*m^2,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.right_arm_link03.inertia.iyy,0.0021428,kg*m^2,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.right_arm_link03.inertia.izz,0.0011455,kg*m^2,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.right_arm_link03.inertia.ixy,-0.0000031,kg*m^2,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.right_arm_link03.inertia.ixz,0.0000017,kg*m^2,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.right_arm_link03.inertia.iyz,-0.0000263,kg*m^2,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.right_arm_link04.mass,0.6888,kg,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.right_arm_link04.com.x,0.00472,m,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.right_arm_link04.com.y,0.06720,m,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.right_arm_link04.com.z,-0.00680,m,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.right_arm_link04.inertia.ixx,0.0008646,kg*m^2,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.right_arm_link04.inertia.iyy,0.0005111,kg*m^2,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.right_arm_link04.inertia.izz,0.0007428,kg*m^2,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.right_arm_link04.inertia.ixy,0.0000021,kg*m^2,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.right_arm_link04.inertia.ixz,-0.0000019,kg*m^2,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.right_arm_link04.inertia.iyz,-0.0002278,kg*m^2,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.right_arm_link05.mass,0.7269,kg,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.right_arm_link05.com.x,0.00716,m,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.right_arm_link05.com.y,0.00001,m,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.right_arm_link05.com.z,-0.07161,m,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.right_arm_link05.inertia.ixx,0.0014427,kg*m^2,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.right_arm_link05.inertia.iyy,0.0012047,kg*m^2,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.right_arm_link05.inertia.izz,0.0005343,kg*m^2,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.right_arm_link05.inertia.ixy,-0.0000009,kg*m^2,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.right_arm_link05.inertia.ixz,-0.0000033,kg*m^2,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.right_arm_link05.inertia.iyz,0.0000009,kg*m^2,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.right_arm_link06.mass,0.0264,kg,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.right_arm_link06.com.x,-0.00012,m,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.right_arm_link06.com.y,-0.00446,m,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.right_arm_link06.com.z,0.00000000,m,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.right_arm_link06.inertia.ixx,0.0000027,kg*m^2,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.right_arm_link06.inertia.iyy,0.0000023,kg*m^2,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.right_arm_link06.inertia.izz,0.0000008,kg*m^2,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.right_arm_link06.inertia.ixy,-0.00000000,kg*m^2,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.right_arm_link06.inertia.ixz,-0.00000000,kg*m^2,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.right_arm_link06.inertia.iyz,0.00000000,kg*m^2,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.right_arm_link07.mass,0.0229,kg,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.right_arm_link07.com.x,0.01105,m,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.right_arm_link07.com.y,0.0,m,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.right_arm_link07.com.z,0.00758,m,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.right_arm_link07.inertia.ixx,0.0000031,kg*m^2,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.right_arm_link07.inertia.iyy,0.0000047,kg*m^2,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.right_arm_link07.inertia.izz,0.0000048,kg*m^2,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.right_arm_link07.inertia.ixy,0.0,kg*m^2,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.right_arm_link07.inertia.ixz,0.0000006,kg*m^2,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.right_arm_link07.inertia.iyz,0.0,kg*m^2,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.head_link01.mass,1.4191,kg,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.head_link01.com.x,0.00437,m,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.head_link01.com.y,-0.00015,m,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.head_link01.com.z,0.11667,m,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.head_link01.inertia.ixx,0.0048556,kg*m^2,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.head_link01.inertia.iyy,0.0052613,kg*m^2,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.head_link01.inertia.izz,0.0023522,kg*m^2,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.head_link01.inertia.ixy,0.0000380,kg*m^2,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.head_link01.inertia.ixz,-0.0002259,kg*m^2,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.head_link01.inertia.iyz,-0.0002074,kg*m^2,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.head_link02.mass,0.9109,kg,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.head_link02.com.x,0.04499,m,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.head_link02.com.y,0.04548,m,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.head_link02.com.z,0.00094,m,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.head_link02.inertia.ixx,0.0046344,kg*m^2,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.head_link02.inertia.iyy,0.0051499,kg*m^2,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.head_link02.inertia.izz,0.0054389,kg*m^2,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.head_link02.inertia.ixy,0.0006417,kg*m^2,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.head_link02.inertia.ixz,0.0000005,kg*m^2,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+link.head_link02.inertia.iyz,0.0000016,kg*m^2,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx01_left_hip_roll.type,revolute,-,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx01_left_hip_roll.origin.x,-0.0808,m,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx01_left_hip_roll.origin.y,0.105,m,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx01_left_hip_roll.origin.z,-0.0652,m,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx01_left_hip_roll.origin.roll,0.7854,rad,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx01_left_hip_roll.origin.pitch,0,rad,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx01_left_hip_roll.origin.yaw,1.5707963,rad,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx01_left_hip_roll.axis.x,0,-,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx01_left_hip_roll.axis.y,0,-,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx01_left_hip_roll.axis.z,1,-,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx01_left_hip_roll.limit.lower,-0.698,rad,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx01_left_hip_roll.limit.upper,0.698,rad,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx01_left_hip_roll.limit.effort,76.8,N*m,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx01_left_hip_roll.limit.velocity,12,rad/s,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx02_left_hip_yaw.type,revolute,-,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx02_left_hip_yaw.origin.x,0,m,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx02_left_hip_yaw.origin.y,-0.017,m,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx02_left_hip_yaw.origin.z,-0.0682,m,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx02_left_hip_yaw.origin.roll,1.5707963,rad,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx02_left_hip_yaw.origin.pitch,-1.5707963,rad,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx02_left_hip_yaw.origin.yaw,0,rad,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx02_left_hip_yaw.axis.x,0,-,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx02_left_hip_yaw.axis.y,0,-,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx02_left_hip_yaw.axis.z,1,-,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx02_left_hip_yaw.limit.lower,-1.57,rad,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx02_left_hip_yaw.limit.upper,1.57,rad,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx02_left_hip_yaw.limit.effort,76.8,N*m,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx02_left_hip_yaw.limit.velocity,12,rad/s,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx03_left_hip_pitch.type,revolute,-,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx03_left_hip_pitch.origin.x,0,m,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx03_left_hip_pitch.origin.y,-0.020,m,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx03_left_hip_pitch.origin.z,0.1205,m,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx03_left_hip_pitch.origin.roll,1.5707963,rad,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx03_left_hip_pitch.origin.pitch,0.7854,rad,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx03_left_hip_pitch.origin.yaw,0,rad,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx03_left_hip_pitch.axis.x,0,-,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx03_left_hip_pitch.axis.y,0,-,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx03_left_hip_pitch.axis.z,1,-,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx03_left_hip_pitch.limit.lower,-1.919862144,rad,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx03_left_hip_pitch.limit.upper,0.78539815,rad,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx03_left_hip_pitch.limit.effort,216,N*m,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx03_left_hip_pitch.limit.velocity,12,rad/s,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx04_left_tarsus.type,revolute,-,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx04_left_tarsus.origin.x,-0.34,m,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx04_left_tarsus.origin.y,0,m,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx04_left_tarsus.origin.z,0,m,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx04_left_tarsus.origin.roll,0,rad,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx04_left_tarsus.origin.pitch,0,rad,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx04_left_tarsus.origin.yaw,0,rad,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx04_left_tarsus.axis.x,0,-,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx04_left_tarsus.axis.y,0,-,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx04_left_tarsus.axis.z,1,-,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx04_left_tarsus.limit.lower,-0.087266461,rad,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx04_left_tarsus.limit.upper,2.443460911,rad,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx04_left_tarsus.limit.effort,216,N*m,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx04_left_tarsus.limit.velocity,12,rad/s,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx05_left_toe_pitch.type,revolute,-,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx05_left_toe_pitch.origin.x,-0.377,m,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx05_left_toe_pitch.origin.y,0,m,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx05_left_toe_pitch.origin.z,0,m,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx05_left_toe_pitch.origin.roll,0,rad,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx05_left_toe_pitch.origin.pitch,0,rad,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx05_left_toe_pitch.origin.yaw,0,rad,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx05_left_toe_pitch.axis.x,0,-,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx05_left_toe_pitch.axis.y,0,-,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx05_left_toe_pitch.axis.z,1,-,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx05_left_toe_pitch.limit.lower,-1.047197533,rad,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx05_left_toe_pitch.limit.upper,0.523598767,rad,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx05_left_toe_pitch.limit.effort,38.4,N*m,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx05_left_toe_pitch.limit.velocity,12,rad/s,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx06_left_toe_roll.type,revolute,-,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx06_left_toe_roll.origin.x,0,m,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx06_left_toe_roll.origin.y,0,m,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx06_left_toe_roll.origin.z,0,m,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx06_left_toe_roll.origin.roll,-1.5707963,rad,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx06_left_toe_roll.origin.pitch,0,rad,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx06_left_toe_roll.origin.yaw,0,rad,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx06_left_toe_roll.axis.x,0,-,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx06_left_toe_roll.axis.y,0,-,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx06_left_toe_roll.axis.z,1,-,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx06_left_toe_roll.limit.lower,-0.488692182,rad,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx06_left_toe_roll.limit.upper,0.488692182,rad,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx06_left_toe_roll.limit.effort,38.4,N*m,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx06_left_toe_roll.limit.velocity,12,rad/s,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx05_01_left_toe_motorA.type,fixed,-,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx05_01_left_toe_motorA.origin.x,-0.138,m,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx05_01_left_toe_motorA.origin.y,0,m,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx05_01_left_toe_motorA.origin.z,-0.0315,m,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx05_01_left_toe_motorA.origin.roll,0,rad,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx05_01_left_toe_motorA.origin.pitch,0,rad,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx05_01_left_toe_motorA.origin.yaw,-1.5707963,rad,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx05_01_left_toe_motorA.axis.x,0,-,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx05_01_left_toe_motorA.axis.y,0,-,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx05_01_left_toe_motorA.axis.z,1,-,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx05_01_left_toe_motorA.limit.lower,-1.5707963,rad,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx05_01_left_toe_motorA.limit.upper,1.5707963,rad,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx05_01_left_toe_motorA.limit.effort,0,N*m,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx05_01_left_toe_motorA.limit.velocity,0,rad/s,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx05_01_left_toe_motorA_ball.type,fixed,-,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx05_01_left_toe_motorA_ball.origin.x,0.063,m,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx05_01_left_toe_motorA_ball.origin.y,0,m,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx05_01_left_toe_motorA_ball.origin.z,0,m,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx05_01_left_toe_motorA_ball.origin.roll,-3.1415926535,rad,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx05_01_left_toe_motorA_ball.origin.pitch,0,rad,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx05_01_left_toe_motorA_ball.origin.yaw,1.5707963,rad,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx05_01_left_toe_motorA_ball.axis.x,0,-,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx05_01_left_toe_motorA_ball.axis.y,0,-,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx05_01_left_toe_motorA_ball.axis.z,0,-,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx06_01_left_toe_motorB.type,fixed,-,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx06_01_left_toe_motorB.origin.x,-0.232,m,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx06_01_left_toe_motorB.origin.y,0,m,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx06_01_left_toe_motorB.origin.z,0.0315,m,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx06_01_left_toe_motorB.origin.roll,0,rad,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx06_01_left_toe_motorB.origin.pitch,0,rad,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx06_01_left_toe_motorB.origin.yaw,-1.5707963,rad,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx06_01_left_toe_motorB.axis.x,0,-,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx06_01_left_toe_motorB.axis.y,0,-,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx06_01_left_toe_motorB.axis.z,1,-,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx06_01_left_toe_motorB.limit.lower,-1.5707963,rad,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx06_01_left_toe_motorB.limit.upper,1.5707963,rad,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx06_01_left_toe_motorB.limit.effort,0,N*m,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx06_01_left_toe_motorB.limit.velocity,0,rad/s,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx06_01_left_toe_motorB_ball.type,fixed,-,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx06_01_left_toe_motorB_ball.origin.x,0.063,m,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx06_01_left_toe_motorB_ball.origin.y,0,m,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx06_01_left_toe_motorB_ball.origin.z,0,m,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx06_01_left_toe_motorB_ball.origin.roll,-3.14159265358666,rad,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx06_01_left_toe_motorB_ball.origin.pitch,0,rad,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx06_01_left_toe_motorB_ball.origin.yaw,1.57074160362305,rad,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx06_01_left_toe_motorB_ball.axis.x,0,-,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx06_01_left_toe_motorB_ball.axis.y,0,-,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx06_01_left_toe_motorB_ball.axis.z,0,-,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx07_right_hip_roll.type,revolute,-,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx07_right_hip_roll.origin.x,-0.0808,m,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx07_right_hip_roll.origin.y,-0.105,m,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx07_right_hip_roll.origin.z,-0.0652,m,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx07_right_hip_roll.origin.roll,0.7854,rad,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx07_right_hip_roll.origin.pitch,0,rad,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx07_right_hip_roll.origin.yaw,1.5707963,rad,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx07_right_hip_roll.axis.x,0,-,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx07_right_hip_roll.axis.y,0,-,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx07_right_hip_roll.axis.z,1,-,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx07_right_hip_roll.limit.lower,-0.698,rad,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx07_right_hip_roll.limit.upper,0.698,rad,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx07_right_hip_roll.limit.effort,76.8,N*m,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx07_right_hip_roll.limit.velocity,12,rad/s,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx08_right_hip_yaw.type,revolute,-,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx08_right_hip_yaw.origin.x,0,m,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx08_right_hip_yaw.origin.y,-0.017,m,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx08_right_hip_yaw.origin.z,-0.0682,m,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx08_right_hip_yaw.origin.roll,1.5707963,rad,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx08_right_hip_yaw.origin.pitch,-1.5707963,rad,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx08_right_hip_yaw.origin.yaw,0,rad,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx08_right_hip_yaw.axis.x,0,-,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx08_right_hip_yaw.axis.y,0,-,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx08_right_hip_yaw.axis.z,1,-,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx08_right_hip_yaw.limit.lower,-1.57,rad,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx08_right_hip_yaw.limit.upper,1.57,rad,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx08_right_hip_yaw.limit.effort,76.8,N*m,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx08_right_hip_yaw.limit.velocity,12,rad/s,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx09_right_hip_pitch.type,revolute,-,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx09_right_hip_pitch.origin.x,0,m,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx09_right_hip_pitch.origin.y,0.020,m,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx09_right_hip_pitch.origin.z,0.1205,m,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx09_right_hip_pitch.origin.roll,1.5707963,rad,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx09_right_hip_pitch.origin.pitch,0.7854,rad,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx09_right_hip_pitch.origin.yaw,0,rad,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx09_right_hip_pitch.axis.x,0,-,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx09_right_hip_pitch.axis.y,0,-,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx09_right_hip_pitch.axis.z,1,-,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx09_right_hip_pitch.limit.lower,-1.919862144,rad,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx09_right_hip_pitch.limit.upper,0.78539815,rad,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx09_right_hip_pitch.limit.effort,216,N*m,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx09_right_hip_pitch.limit.velocity,12,rad/s,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx10_right_tarsus.type,revolute,-,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx10_right_tarsus.origin.x,-0.34,m,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx10_right_tarsus.origin.y,0,m,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx10_right_tarsus.origin.z,0,m,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx10_right_tarsus.origin.roll,0,rad,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx10_right_tarsus.origin.pitch,0,rad,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx10_right_tarsus.origin.yaw,0,rad,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx10_right_tarsus.axis.x,0,-,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx10_right_tarsus.axis.y,0,-,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx10_right_tarsus.axis.z,1,-,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx10_right_tarsus.limit.lower,-0.087266461,rad,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx10_right_tarsus.limit.upper,2.443460911,rad,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx10_right_tarsus.limit.effort,216,N*m,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx10_right_tarsus.limit.velocity,12,rad/s,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx11_right_toe_pitch.type,revolute,-,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx11_right_toe_pitch.origin.x,-0.377,m,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx11_right_toe_pitch.origin.y,0,m,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx11_right_toe_pitch.origin.z,0,m,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx11_right_toe_pitch.origin.roll,0,rad,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx11_right_toe_pitch.origin.pitch,0,rad,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx11_right_toe_pitch.origin.yaw,0,rad,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx11_right_toe_pitch.axis.x,0,-,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx11_right_toe_pitch.axis.y,0,-,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx11_right_toe_pitch.axis.z,1,-,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx11_right_toe_pitch.limit.lower,-1.047197533,rad,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx11_right_toe_pitch.limit.upper,0.523598767,rad,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx11_right_toe_pitch.limit.effort,38.4,N*m,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx11_right_toe_pitch.limit.velocity,12,rad/s,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx12_right_toe_roll.type,revolute,-,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx12_right_toe_roll.origin.x,0,m,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx12_right_toe_roll.origin.y,0,m,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx12_right_toe_roll.origin.z,0,m,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx12_right_toe_roll.origin.roll,-1.5707963,rad,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx12_right_toe_roll.origin.pitch,0,rad,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx12_right_toe_roll.origin.yaw,0,rad,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx12_right_toe_roll.axis.x,0,-,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx12_right_toe_roll.axis.y,0,-,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx12_right_toe_roll.axis.z,1,-,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx12_right_toe_roll.limit.lower,-0.488692182,rad,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx12_right_toe_roll.limit.upper,0.488692182,rad,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx12_right_toe_roll.limit.effort,38.4,N*m,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx12_right_toe_roll.limit.velocity,12,rad/s,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx11_01_right_toe_motorA.type,fixed,-,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx11_01_right_toe_motorA.origin.x,-0.138,m,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx11_01_right_toe_motorA.origin.y,0,m,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx11_01_right_toe_motorA.origin.z,0.0315,m,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx11_01_right_toe_motorA.origin.roll,0,rad,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx11_01_right_toe_motorA.origin.pitch,0,rad,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx11_01_right_toe_motorA.origin.yaw,-1.5707963,rad,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx11_01_right_toe_motorA.axis.x,0,-,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx11_01_right_toe_motorA.axis.y,0,-,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx11_01_right_toe_motorA.axis.z,1,-,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx11_01_right_toe_motorA.limit.lower,0,rad,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx11_01_right_toe_motorA.limit.upper,0,rad,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx11_01_right_toe_motorA.limit.effort,0,N*m,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx11_01_right_toe_motorA.limit.velocity,0,rad/s,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx11_01_right_toe_motorA_ball .type,fixed,-,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx11_01_right_toe_motorA_ball .origin.x,0.063,m,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx11_01_right_toe_motorA_ball .origin.y,0,m,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx11_01_right_toe_motorA_ball .origin.z,0,m,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx11_01_right_toe_motorA_ball .origin.roll,3.1415926535,rad,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx11_01_right_toe_motorA_ball .origin.pitch,0,rad,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx11_01_right_toe_motorA_ball .origin.yaw,1.5707963,rad,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx11_01_right_toe_motorA_ball .axis.x,0,-,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx11_01_right_toe_motorA_ball .axis.y,0,-,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx11_01_right_toe_motorA_ball .axis.z,0,-,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx12_01_right_toe_motorB.type,fixed,-,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx12_01_right_toe_motorB.origin.x,-0.232,m,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx12_01_right_toe_motorB.origin.y,0,m,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx12_01_right_toe_motorB.origin.z,-0.0315,m,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx12_01_right_toe_motorB.origin.roll,0,rad,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx12_01_right_toe_motorB.origin.pitch,0,rad,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx12_01_right_toe_motorB.origin.yaw,-1.5707963,rad,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx12_01_right_toe_motorB.axis.x,0,-,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx12_01_right_toe_motorB.axis.y,0,-,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx12_01_right_toe_motorB.axis.z,1,-,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx12_01_right_toe_motorB.limit.lower,0,rad,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx12_01_right_toe_motorB.limit.upper,0,rad,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx12_01_right_toe_motorB.limit.effort,0,N*m,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx12_01_right_toe_motorB.limit.velocity,0,rad/s,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx12_01_right_toe_motorB_ball.type,fixed,-,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx12_01_right_toe_motorB_ball.origin.x,0.063,m,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx12_01_right_toe_motorB_ball.origin.y,0,m,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx12_01_right_toe_motorB_ball.origin.z,0,m,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx12_01_right_toe_motorB_ball.origin.roll,3.1415926535,rad,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx12_01_right_toe_motorB_ball.origin.pitch,0,rad,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx12_01_right_toe_motorB_ball.origin.yaw,1.5707963,rad,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx12_01_right_toe_motorB_ball.axis.x,0,-,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx12_01_right_toe_motorB_ball.axis.y,0,-,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx12_01_right_toe_motorB_ball.axis.z,0,-,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.left_arm_base_joint.type,fixed,-,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.left_arm_base_joint.origin.x,-0.03779,m,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.left_arm_base_joint.origin.y,0,m,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.left_arm_base_joint.origin.z,0.3421,m,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.left_arm_base_joint.origin.roll,1.5707963,rad,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.left_arm_base_joint.origin.pitch,0,rad,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.left_arm_base_joint.origin.yaw,0,rad,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx13_left_arm_joint1.type,fixed,-,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx13_left_arm_joint1.origin.x,-0.0,m,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx13_left_arm_joint1.origin.y,0.0,m,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx13_left_arm_joint1.origin.z,-0.191,m,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx13_left_arm_joint1.origin.roll,0,rad,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx13_left_arm_joint1.origin.pitch,-1.31,rad,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx13_left_arm_joint1.origin.yaw,-1.5707963,rad,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx13_left_arm_joint1.axis.x,0,-,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx13_left_arm_joint1.axis.y,0,-,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx13_left_arm_joint1.axis.z,1,-,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx13_left_arm_joint1.limit.lower,-2.967,rad,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,position limit on a joint the vendor welds fixed; unverified for Luka
+joint.idx13_left_arm_joint1.limit.upper,2.967,rad,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,position limit on a joint the vendor welds fixed; unverified for Luka
+joint.idx13_left_arm_joint1.limit.effort,0,N*m,vendor,deprecated,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,placeholder 0 on a joint the vendor welds fixed; not a real limit
+joint.idx13_left_arm_joint1.limit.velocity,0,rad/s,vendor,deprecated,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,placeholder 0 on a joint the vendor welds fixed; not a real limit
+joint.idx14_left_arm_joint2.type,fixed,-,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx14_left_arm_joint2.origin.x,0,m,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx14_left_arm_joint2.origin.y,0,m,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx14_left_arm_joint2.origin.z,-0.0,m,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx14_left_arm_joint2.origin.roll,1.5707963,rad,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx14_left_arm_joint2.origin.pitch,0,rad,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx14_left_arm_joint2.origin.yaw,0,rad,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx14_left_arm_joint2.axis.x,0,-,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx14_left_arm_joint2.axis.y,0,-,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx14_left_arm_joint2.axis.z,1,-,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx14_left_arm_joint2.limit.lower,-0.523598767,rad,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,position limit on a joint the vendor welds fixed; unverified for Luka
+joint.idx14_left_arm_joint2.limit.upper,1.658062761,rad,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,position limit on a joint the vendor welds fixed; unverified for Luka
+joint.idx14_left_arm_joint2.limit.effort,0,N*m,vendor,deprecated,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,placeholder 0 on a joint the vendor welds fixed; not a real limit
+joint.idx14_left_arm_joint2.limit.velocity,0,rad/s,vendor,deprecated,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,placeholder 0 on a joint the vendor welds fixed; not a real limit
+joint.idx15_left_arm_joint3.type,fixed,-,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx15_left_arm_joint3.origin.x,0,m,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx15_left_arm_joint3.origin.y,-0.154,m,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx15_left_arm_joint3.origin.z,0,m,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx15_left_arm_joint3.origin.roll,1.5707963,rad,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx15_left_arm_joint3.origin.pitch,0,rad,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx15_left_arm_joint3.origin.yaw,0,rad,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx15_left_arm_joint3.axis.x,0,-,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx15_left_arm_joint3.axis.y,0,-,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx15_left_arm_joint3.axis.z,1,-,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx15_left_arm_joint3.limit.lower,-2.967,rad,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,position limit on a joint the vendor welds fixed; unverified for Luka
+joint.idx15_left_arm_joint3.limit.upper,2.967,rad,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,position limit on a joint the vendor welds fixed; unverified for Luka
+joint.idx15_left_arm_joint3.limit.effort,0,N*m,vendor,deprecated,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,placeholder 0 on a joint the vendor welds fixed; not a real limit
+joint.idx15_left_arm_joint3.limit.velocity,0,rad/s,vendor,deprecated,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,placeholder 0 on a joint the vendor welds fixed; not a real limit
+joint.idx16_left_arm_joint4.type,fixed,-,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx16_left_arm_joint4.origin.x,0,m,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx16_left_arm_joint4.origin.y,0,m,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx16_left_arm_joint4.origin.z,0.093,m,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx16_left_arm_joint4.origin.roll,-1.5707963,rad,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx16_left_arm_joint4.origin.pitch,0,rad,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx16_left_arm_joint4.origin.yaw,1.5707963,rad,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx16_left_arm_joint4.axis.x,0,-,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx16_left_arm_joint4.axis.y,0,-,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx16_left_arm_joint4.axis.z,1,-,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx16_left_arm_joint4.limit.lower,-2.094395067,rad,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,position limit on a joint the vendor welds fixed; unverified for Luka
+joint.idx16_left_arm_joint4.limit.upper,0,rad,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,position limit on a joint the vendor welds fixed; unverified for Luka
+joint.idx16_left_arm_joint4.limit.effort,0,N*m,vendor,deprecated,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,placeholder 0 on a joint the vendor welds fixed; not a real limit
+joint.idx16_left_arm_joint4.limit.velocity,0,rad/s,vendor,deprecated,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,placeholder 0 on a joint the vendor welds fixed; not a real limit
+joint.idx17_left_arm_joint5.type,fixed,-,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx17_left_arm_joint5.origin.x,0,m,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx17_left_arm_joint5.origin.y,-0.103,m,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx17_left_arm_joint5.origin.z,0.0,m,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx17_left_arm_joint5.origin.roll,1.5707963,rad,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx17_left_arm_joint5.origin.pitch,-1.57,rad,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx17_left_arm_joint5.origin.yaw,0,rad,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx17_left_arm_joint5.axis.x,0,-,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx17_left_arm_joint5.axis.y,0,-,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx17_left_arm_joint5.axis.z,1,-,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx17_left_arm_joint5.limit.lower,-2.87979,rad,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,position limit on a joint the vendor welds fixed; unverified for Luka
+joint.idx17_left_arm_joint5.limit.upper,2.87979,rad,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,position limit on a joint the vendor welds fixed; unverified for Luka
+joint.idx17_left_arm_joint5.limit.effort,0,N*m,vendor,deprecated,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,placeholder 0 on a joint the vendor welds fixed; not a real limit
+joint.idx17_left_arm_joint5.limit.velocity,0.0,rad/s,vendor,deprecated,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,placeholder 0 on a joint the vendor welds fixed; not a real limit
+joint.idx18_left_arm_joint6.type,fixed,-,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx18_left_arm_joint6.origin.x,-0.01,m,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx18_left_arm_joint6.origin.y,0,m,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx18_left_arm_joint6.origin.z,0.1595,m,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx18_left_arm_joint6.origin.roll,-1.5707963,rad,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx18_left_arm_joint6.origin.pitch,1.5707963,rad,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx18_left_arm_joint6.origin.yaw,0,rad,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx18_left_arm_joint6.axis.x,0,-,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx18_left_arm_joint6.axis.y,0,-,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx18_left_arm_joint6.axis.z,1,-,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx18_left_arm_joint6.limit.lower,-0.785398,rad,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,position limit on a joint the vendor welds fixed; unverified for Luka
+joint.idx18_left_arm_joint6.limit.upper,0.785398,rad,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,position limit on a joint the vendor welds fixed; unverified for Luka
+joint.idx18_left_arm_joint6.limit.effort,0,N*m,vendor,deprecated,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,placeholder 0 on a joint the vendor welds fixed; not a real limit
+joint.idx18_left_arm_joint6.limit.velocity,0.0,rad/s,vendor,deprecated,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,placeholder 0 on a joint the vendor welds fixed; not a real limit
+joint.idx19_left_arm_joint7.type,fixed,-,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx19_left_arm_joint7.origin.x,0,m,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx19_left_arm_joint7.origin.y,0,m,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx19_left_arm_joint7.origin.z,0,m,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx19_left_arm_joint7.origin.roll,1.5707963,rad,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx19_left_arm_joint7.origin.pitch,0,rad,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx19_left_arm_joint7.origin.yaw,0,rad,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx19_left_arm_joint7.axis.x,0,-,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx19_left_arm_joint7.axis.y,0,-,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx19_left_arm_joint7.axis.z,1,-,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx19_left_arm_joint7.limit.lower,-0.5236,rad,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,position limit on a joint the vendor welds fixed; unverified for Luka
+joint.idx19_left_arm_joint7.limit.upper,0.5236,rad,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,position limit on a joint the vendor welds fixed; unverified for Luka
+joint.idx19_left_arm_joint7.limit.effort,0,N*m,vendor,deprecated,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,placeholder 0 on a joint the vendor welds fixed; not a real limit
+joint.idx19_left_arm_joint7.limit.velocity,0,rad/s,vendor,deprecated,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,placeholder 0 on a joint the vendor welds fixed; not a real limit
+joint.left_arm_joint07_fixed.type,fixed,-,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.left_arm_joint07_fixed.origin.x,0,m,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.left_arm_joint07_fixed.origin.y,0,m,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.left_arm_joint07_fixed.origin.z,0,m,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.left_arm_joint07_fixed.origin.roll,1.5707963,rad,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.left_arm_joint07_fixed.origin.pitch,0,rad,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.left_arm_joint07_fixed.origin.yaw,-1.5707963,rad,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.left_wrist_motor_A_ball.type,fixed,-,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.left_wrist_motor_A_ball.origin.x,0.005,m,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.left_wrist_motor_A_ball.origin.y,0.02245,m,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.left_wrist_motor_A_ball.origin.z,0.0245,m,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.left_wrist_motor_A_ball.origin.roll,0,rad,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.left_wrist_motor_A_ball.origin.pitch,-3.126778944,rad,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.left_wrist_motor_A_ball.origin.yaw,0,rad,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.left_wrist_rod_A_joint.type,fixed,-,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.left_wrist_rod_A_joint.origin.x,0,m,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.left_wrist_rod_A_joint.origin.y,0,m,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.left_wrist_rod_A_joint.origin.z,-0.135015,m,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.left_wrist_rod_A_joint.origin.roll,0,rad,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.left_wrist_rod_A_joint.origin.pitch,3.1415926535,rad,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.left_wrist_rod_A_joint.origin.yaw,0,rad,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.left_wrist_rod_A_joint.axis.x,0,-,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.left_wrist_rod_A_joint.axis.y,0,-,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.left_wrist_rod_A_joint.axis.z,1,-,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.left_wrist_rod_A_joint.limit.lower,-0.01199,rad,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.left_wrist_rod_A_joint.limit.upper,0.01204,rad,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.left_wrist_rod_A_joint.limit.effort,0,N*m,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.left_wrist_rod_A_joint.limit.velocity,0,rad/s,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.left_wrist_motor_B_ball.type,fixed,-,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.left_wrist_motor_B_ball.origin.x,0.005,m,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.left_wrist_motor_B_ball.origin.y,-0.02245,m,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.left_wrist_motor_B_ball.origin.z,0.0245,m,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.left_wrist_motor_B_ball.origin.roll,0,rad,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.left_wrist_motor_B_ball.origin.pitch,-3.126778944,rad,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.left_wrist_motor_B_ball.origin.yaw,0,rad,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.left_wrist_rod_B_joint.type,fixed,-,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.left_wrist_rod_B_joint.origin.x,0,m,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.left_wrist_rod_B_joint.origin.y,0,m,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.left_wrist_rod_B_joint.origin.z,-0.135015,m,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.left_wrist_rod_B_joint.origin.roll,0,rad,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.left_wrist_rod_B_joint.origin.pitch,3.1415926535,rad,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.left_wrist_rod_B_joint.origin.yaw,0,rad,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.left_wrist_rod_B_joint.axis.x,0,-,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.left_wrist_rod_B_joint.axis.y,0,-,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.left_wrist_rod_B_joint.axis.z,1,-,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.left_wrist_rod_B_joint.limit.lower,-0.01199,rad,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.left_wrist_rod_B_joint.limit.upper,0.01204,rad,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.left_wrist_rod_B_joint.limit.effort,0,N*m,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.left_wrist_rod_B_joint.limit.velocity,0,rad/s,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.right_arm_base_joint.type,fixed,-,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.right_arm_base_joint.origin.x,-0.03779,m,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.right_arm_base_joint.origin.y,0,m,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.right_arm_base_joint.origin.z,0.3421,m,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.right_arm_base_joint.origin.roll,1.5707963,rad,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.right_arm_base_joint.origin.pitch,0,rad,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.right_arm_base_joint.origin.yaw,0,rad,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx20_right_arm_joint1.type,fixed,-,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx20_right_arm_joint1.origin.x,-0.0,m,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx20_right_arm_joint1.origin.y,0.0,m,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx20_right_arm_joint1.origin.z,0.191,m,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx20_right_arm_joint1.origin.roll,0,rad,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx20_right_arm_joint1.origin.pitch,1.31,rad,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx20_right_arm_joint1.origin.yaw,-1.5707963,rad,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx20_right_arm_joint1.axis.x,0,-,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx20_right_arm_joint1.axis.y,0,-,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx20_right_arm_joint1.axis.z,1,-,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx20_right_arm_joint1.limit.lower,-2.967,rad,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,position limit on a joint the vendor welds fixed; unverified for Luka
+joint.idx20_right_arm_joint1.limit.upper,2.967,rad,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,position limit on a joint the vendor welds fixed; unverified for Luka
+joint.idx20_right_arm_joint1.limit.effort,0,N*m,vendor,deprecated,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,placeholder 0 on a joint the vendor welds fixed; not a real limit
+joint.idx20_right_arm_joint1.limit.velocity,0,rad/s,vendor,deprecated,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,placeholder 0 on a joint the vendor welds fixed; not a real limit
+joint.idx21_right_arm_joint2.type,fixed,-,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx21_right_arm_joint2.origin.x,0,m,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx21_right_arm_joint2.origin.y,0,m,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx21_right_arm_joint2.origin.z,0.0,m,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx21_right_arm_joint2.origin.roll,1.5707963,rad,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx21_right_arm_joint2.origin.pitch,0,rad,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx21_right_arm_joint2.origin.yaw,0,rad,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx21_right_arm_joint2.axis.x,0,-,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx21_right_arm_joint2.axis.y,0,-,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx21_right_arm_joint2.axis.z,1,-,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx21_right_arm_joint2.limit.lower,-1.658062761,rad,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,position limit on a joint the vendor welds fixed; unverified for Luka
+joint.idx21_right_arm_joint2.limit.upper,0.523598767,rad,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,position limit on a joint the vendor welds fixed; unverified for Luka
+joint.idx21_right_arm_joint2.limit.effort,0,N*m,vendor,deprecated,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,placeholder 0 on a joint the vendor welds fixed; not a real limit
+joint.idx21_right_arm_joint2.limit.velocity,0,rad/s,vendor,deprecated,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,placeholder 0 on a joint the vendor welds fixed; not a real limit
+joint.idx22_right_arm_joint3.type,fixed,-,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx22_right_arm_joint3.origin.x,0,m,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx22_right_arm_joint3.origin.y,0.154,m,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx22_right_arm_joint3.origin.z,0,m,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx22_right_arm_joint3.origin.roll,1.5707963,rad,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx22_right_arm_joint3.origin.pitch,0,rad,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx22_right_arm_joint3.origin.yaw,0,rad,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx22_right_arm_joint3.axis.x,0,-,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx22_right_arm_joint3.axis.y,0,-,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx22_right_arm_joint3.axis.z,1,-,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx22_right_arm_joint3.limit.lower,-2.967,rad,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,position limit on a joint the vendor welds fixed; unverified for Luka
+joint.idx22_right_arm_joint3.limit.upper,2.967,rad,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,position limit on a joint the vendor welds fixed; unverified for Luka
+joint.idx22_right_arm_joint3.limit.effort,0,N*m,vendor,deprecated,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,placeholder 0 on a joint the vendor welds fixed; not a real limit
+joint.idx22_right_arm_joint3.limit.velocity,0,rad/s,vendor,deprecated,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,placeholder 0 on a joint the vendor welds fixed; not a real limit
+joint.idx23_right_arm_joint4.type,fixed,-,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx23_right_arm_joint4.origin.x,0,m,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx23_right_arm_joint4.origin.y,0,m,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx23_right_arm_joint4.origin.z,-0.093,m,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx23_right_arm_joint4.origin.roll,-1.5707963,rad,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx23_right_arm_joint4.origin.pitch,0,rad,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx23_right_arm_joint4.origin.yaw,1.5707963,rad,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx23_right_arm_joint4.axis.x,0,-,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx23_right_arm_joint4.axis.y,0,-,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx23_right_arm_joint4.axis.z,1,-,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx23_right_arm_joint4.limit.lower,0,rad,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,position limit on a joint the vendor welds fixed; unverified for Luka
+joint.idx23_right_arm_joint4.limit.upper,2.094395067,rad,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,position limit on a joint the vendor welds fixed; unverified for Luka
+joint.idx23_right_arm_joint4.limit.effort,0,N*m,vendor,deprecated,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,placeholder 0 on a joint the vendor welds fixed; not a real limit
+joint.idx23_right_arm_joint4.limit.velocity,0,rad/s,vendor,deprecated,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,placeholder 0 on a joint the vendor welds fixed; not a real limit
+joint.idx24_right_arm_joint5.type,fixed,-,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx24_right_arm_joint5.origin.x,0,m,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx24_right_arm_joint5.origin.y,0.103,m,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx24_right_arm_joint5.origin.z,0.0,m,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx24_right_arm_joint5.origin.roll,1.5707963,rad,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx24_right_arm_joint5.origin.pitch,-1.57,rad,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx24_right_arm_joint5.origin.yaw,0,rad,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx24_right_arm_joint5.axis.x,0,-,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx24_right_arm_joint5.axis.y,0,-,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx24_right_arm_joint5.axis.z,1,-,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx24_right_arm_joint5.limit.lower,-2.87979,rad,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,position limit on a joint the vendor welds fixed; unverified for Luka
+joint.idx24_right_arm_joint5.limit.upper,2.87979,rad,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,position limit on a joint the vendor welds fixed; unverified for Luka
+joint.idx24_right_arm_joint5.limit.effort,0.0,N*m,vendor,deprecated,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,placeholder 0 on a joint the vendor welds fixed; not a real limit
+joint.idx24_right_arm_joint5.limit.velocity,0.0,rad/s,vendor,deprecated,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,placeholder 0 on a joint the vendor welds fixed; not a real limit
+joint.idx25_right_arm_joint6.type,fixed,-,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx25_right_arm_joint6.origin.x,-0.01,m,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx25_right_arm_joint6.origin.y,0,m,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx25_right_arm_joint6.origin.z,-0.1595,m,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx25_right_arm_joint6.origin.roll,-1.5707963,rad,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx25_right_arm_joint6.origin.pitch,1.5707963,rad,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx25_right_arm_joint6.origin.yaw,0,rad,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx25_right_arm_joint6.axis.x,0,-,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx25_right_arm_joint6.axis.y,0,-,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx25_right_arm_joint6.axis.z,1,-,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx25_right_arm_joint6.limit.lower,-0.785398,rad,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,position limit on a joint the vendor welds fixed; unverified for Luka
+joint.idx25_right_arm_joint6.limit.upper,0.785398,rad,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,position limit on a joint the vendor welds fixed; unverified for Luka
+joint.idx25_right_arm_joint6.limit.effort,0.0,N*m,vendor,deprecated,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,placeholder 0 on a joint the vendor welds fixed; not a real limit
+joint.idx25_right_arm_joint6.limit.velocity,0.0,rad/s,vendor,deprecated,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,placeholder 0 on a joint the vendor welds fixed; not a real limit
+joint.idx26_right_arm_joint7.type,fixed,-,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx26_right_arm_joint7.origin.x,0,m,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx26_right_arm_joint7.origin.y,0,m,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx26_right_arm_joint7.origin.z,0,m,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx26_right_arm_joint7.origin.roll,1.5707963,rad,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx26_right_arm_joint7.origin.pitch,0,rad,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx26_right_arm_joint7.origin.yaw,0,rad,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx26_right_arm_joint7.axis.x,0,-,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx26_right_arm_joint7.axis.y,0,-,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx26_right_arm_joint7.axis.z,1,-,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx26_right_arm_joint7.limit.lower,-0.5236,rad,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,position limit on a joint the vendor welds fixed; unverified for Luka
+joint.idx26_right_arm_joint7.limit.upper,0.5236,rad,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,position limit on a joint the vendor welds fixed; unverified for Luka
+joint.idx26_right_arm_joint7.limit.effort,0,N*m,vendor,deprecated,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,placeholder 0 on a joint the vendor welds fixed; not a real limit
+joint.idx26_right_arm_joint7.limit.velocity,0,rad/s,vendor,deprecated,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,placeholder 0 on a joint the vendor welds fixed; not a real limit
+joint.right_arm_joint07_fixed.type,fixed,-,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.right_arm_joint07_fixed.origin.x,0,m,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.right_arm_joint07_fixed.origin.y,0,m,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.right_arm_joint07_fixed.origin.z,0,m,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.right_arm_joint07_fixed.origin.roll,-1.5707963,rad,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.right_arm_joint07_fixed.origin.pitch,0,rad,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.right_arm_joint07_fixed.origin.yaw,-1.5707963,rad,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.right_wrist_motor_A_ball.type,fixed,-,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.right_wrist_motor_A_ball.origin.x,0.005,m,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.right_wrist_motor_A_ball.origin.y,0.02245,m,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.right_wrist_motor_A_ball.origin.z,-0.0245,m,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.right_wrist_motor_A_ball.origin.roll,0,rad,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.right_wrist_motor_A_ball.origin.pitch,-0.01481371,rad,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.right_wrist_motor_A_ball.origin.yaw,0,rad,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.right_wrist_rod_A_joint.type,fixed,-,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.right_wrist_rod_A_joint.origin.x,0,m,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.right_wrist_rod_A_joint.origin.y,0,m,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.right_wrist_rod_A_joint.origin.z,-0.135015,m,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.right_wrist_rod_A_joint.origin.roll,0,rad,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.right_wrist_rod_A_joint.origin.pitch,3.1415926535,rad,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.right_wrist_rod_A_joint.origin.yaw,0,rad,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.right_wrist_rod_A_joint.axis.x,0,-,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.right_wrist_rod_A_joint.axis.y,0,-,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.right_wrist_rod_A_joint.axis.z,1,-,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.right_wrist_rod_A_joint.limit.lower,-0.01199,rad,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.right_wrist_rod_A_joint.limit.upper,0.01204,rad,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.right_wrist_rod_A_joint.limit.effort,0,N*m,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.right_wrist_rod_A_joint.limit.velocity,0,rad/s,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.right_wrist_motor_B_ball.type,fixed,-,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.right_wrist_motor_B_ball.origin.x,0.005,m,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.right_wrist_motor_B_ball.origin.y,-0.02245,m,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.right_wrist_motor_B_ball.origin.z,-0.0245,m,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.right_wrist_motor_B_ball.origin.roll,0,rad,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.right_wrist_motor_B_ball.origin.pitch,-0.01481371,rad,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.right_wrist_motor_B_ball.origin.yaw,0,rad,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.right_wrist_rod_B_joint.type,fixed,-,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.right_wrist_rod_B_joint.origin.x,0,m,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.right_wrist_rod_B_joint.origin.y,0,m,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.right_wrist_rod_B_joint.origin.z,-0.135015,m,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.right_wrist_rod_B_joint.origin.roll,0,rad,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.right_wrist_rod_B_joint.origin.pitch,3.1415926535,rad,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.right_wrist_rod_B_joint.origin.yaw,0,rad,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.right_wrist_rod_B_joint.axis.x,0,-,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.right_wrist_rod_B_joint.axis.y,0,-,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.right_wrist_rod_B_joint.axis.z,1,-,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.right_wrist_rod_B_joint.limit.lower,-0.01199,rad,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.right_wrist_rod_B_joint.limit.upper,0.01204,rad,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.right_wrist_rod_B_joint.limit.effort,0,N*m,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.right_wrist_rod_B_joint.limit.velocity,0,rad/s,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx27_head_joint1.type,fixed,-,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx27_head_joint1.origin.x,-0.03779,m,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx27_head_joint1.origin.y,0,m,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx27_head_joint1.origin.z,0.4101,m,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx27_head_joint1.origin.roll,0,rad,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx27_head_joint1.origin.pitch,0,rad,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx27_head_joint1.origin.yaw,0,rad,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx27_head_joint1.axis.x,0,-,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx27_head_joint1.axis.y,0,-,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx27_head_joint1.axis.z,1,-,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx27_head_joint1.limit.lower,-2.2,rad,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,position limit on a joint the vendor welds fixed; unverified for Luka
+joint.idx27_head_joint1.limit.upper,2.2,rad,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,position limit on a joint the vendor welds fixed; unverified for Luka
+joint.idx27_head_joint1.limit.effort,0,N*m,vendor,deprecated,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,placeholder 0 on a joint the vendor welds fixed; not a real limit
+joint.idx27_head_joint1.limit.velocity,0,rad/s,vendor,deprecated,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,placeholder 0 on a joint the vendor welds fixed; not a real limit
+joint.idx28_head_joint2.type,fixed,-,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx28_head_joint2.origin.x,-0.00501,m,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx28_head_joint2.origin.y,0,m,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx28_head_joint2.origin.z,0.16059,m,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx28_head_joint2.origin.roll,1.5707963,rad,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx28_head_joint2.origin.pitch,0,rad,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx28_head_joint2.origin.yaw,0,rad,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx28_head_joint2.axis.x,0,-,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx28_head_joint2.axis.y,0,-,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx28_head_joint2.axis.z,1,-,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,
+joint.idx28_head_joint2.limit.lower,-0.5,rad,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,position limit on a joint the vendor welds fixed; unverified for Luka
+joint.idx28_head_joint2.limit.upper,0.5,rad,vendor,active,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,position limit on a joint the vendor welds fixed; unverified for Luka
+joint.idx28_head_joint2.limit.effort,0,N*m,vendor,deprecated,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,placeholder 0 on a joint the vendor welds fixed; not a real limit
+joint.idx28_head_joint2.limit.velocity,0,rad/s,vendor,deprecated,2026-10-22,vendor/agibot_a2/urdf/agibot_a2_dof12.urdf @ Link-U-OS/rl_training 8bf8fd8,placeholder 0 on a joint the vendor welds fixed; not a real limit
+joint.idx13_left_arm_joint1.limit.effort,,N*m,,missing,2026-10-22,,vendor welds this joint fixed; need AgiBot docs or a sweep on Luka
+joint.idx13_left_arm_joint1.limit.velocity,,rad/s,,missing,2026-10-22,,vendor welds this joint fixed; need AgiBot docs or a sweep on Luka
+joint.idx14_left_arm_joint2.limit.effort,,N*m,,missing,2026-10-22,,vendor welds this joint fixed; need AgiBot docs or a sweep on Luka
+joint.idx14_left_arm_joint2.limit.velocity,,rad/s,,missing,2026-10-22,,vendor welds this joint fixed; need AgiBot docs or a sweep on Luka
+joint.idx15_left_arm_joint3.limit.effort,,N*m,,missing,2026-10-22,,vendor welds this joint fixed; need AgiBot docs or a sweep on Luka
+joint.idx15_left_arm_joint3.limit.velocity,,rad/s,,missing,2026-10-22,,vendor welds this joint fixed; need AgiBot docs or a sweep on Luka
+joint.idx16_left_arm_joint4.limit.effort,,N*m,,missing,2026-10-22,,vendor welds this joint fixed; need AgiBot docs or a sweep on Luka
+joint.idx16_left_arm_joint4.limit.velocity,,rad/s,,missing,2026-10-22,,vendor welds this joint fixed; need AgiBot docs or a sweep on Luka
+joint.idx17_left_arm_joint5.limit.effort,,N*m,,missing,2026-10-22,,vendor welds this joint fixed; need AgiBot docs or a sweep on Luka
+joint.idx17_left_arm_joint5.limit.velocity,,rad/s,,missing,2026-10-22,,vendor welds this joint fixed; need AgiBot docs or a sweep on Luka
+joint.idx18_left_arm_joint6.limit.effort,,N*m,,missing,2026-10-22,,vendor welds this joint fixed; need AgiBot docs or a sweep on Luka
+joint.idx18_left_arm_joint6.limit.velocity,,rad/s,,missing,2026-10-22,,vendor welds this joint fixed; need AgiBot docs or a sweep on Luka
+joint.idx19_left_arm_joint7.limit.effort,,N*m,,missing,2026-10-22,,vendor welds this joint fixed; need AgiBot docs or a sweep on Luka
+joint.idx19_left_arm_joint7.limit.velocity,,rad/s,,missing,2026-10-22,,vendor welds this joint fixed; need AgiBot docs or a sweep on Luka
+joint.idx20_right_arm_joint1.limit.effort,,N*m,,missing,2026-10-22,,vendor welds this joint fixed; need AgiBot docs or a sweep on Luka
+joint.idx20_right_arm_joint1.limit.velocity,,rad/s,,missing,2026-10-22,,vendor welds this joint fixed; need AgiBot docs or a sweep on Luka
+joint.idx21_right_arm_joint2.limit.effort,,N*m,,missing,2026-10-22,,vendor welds this joint fixed; need AgiBot docs or a sweep on Luka
+joint.idx21_right_arm_joint2.limit.velocity,,rad/s,,missing,2026-10-22,,vendor welds this joint fixed; need AgiBot docs or a sweep on Luka
+joint.idx22_right_arm_joint3.limit.effort,,N*m,,missing,2026-10-22,,vendor welds this joint fixed; need AgiBot docs or a sweep on Luka
+joint.idx22_right_arm_joint3.limit.velocity,,rad/s,,missing,2026-10-22,,vendor welds this joint fixed; need AgiBot docs or a sweep on Luka
+joint.idx23_right_arm_joint4.limit.effort,,N*m,,missing,2026-10-22,,vendor welds this joint fixed; need AgiBot docs or a sweep on Luka
+joint.idx23_right_arm_joint4.limit.velocity,,rad/s,,missing,2026-10-22,,vendor welds this joint fixed; need AgiBot docs or a sweep on Luka
+joint.idx24_right_arm_joint5.limit.effort,,N*m,,missing,2026-10-22,,vendor welds this joint fixed; need AgiBot docs or a sweep on Luka
+joint.idx24_right_arm_joint5.limit.velocity,,rad/s,,missing,2026-10-22,,vendor welds this joint fixed; need AgiBot docs or a sweep on Luka
+joint.idx25_right_arm_joint6.limit.effort,,N*m,,missing,2026-10-22,,vendor welds this joint fixed; need AgiBot docs or a sweep on Luka
+joint.idx25_right_arm_joint6.limit.velocity,,rad/s,,missing,2026-10-22,,vendor welds this joint fixed; need AgiBot docs or a sweep on Luka
+joint.idx26_right_arm_joint7.limit.effort,,N*m,,missing,2026-10-22,,vendor welds this joint fixed; need AgiBot docs or a sweep on Luka
+joint.idx26_right_arm_joint7.limit.velocity,,rad/s,,missing,2026-10-22,,vendor welds this joint fixed; need AgiBot docs or a sweep on Luka
+joint.idx27_head_joint1.limit.effort,,N*m,,missing,2026-10-22,,vendor welds this joint fixed; need AgiBot docs or a sweep on Luka
+joint.idx27_head_joint1.limit.velocity,,rad/s,,missing,2026-10-22,,vendor welds this joint fixed; need AgiBot docs or a sweep on Luka
+joint.idx28_head_joint2.limit.effort,,N*m,,missing,2026-10-22,,vendor welds this joint fixed; need AgiBot docs or a sweep on Luka
+joint.idx28_head_joint2.limit.velocity,,rad/s,,missing,2026-10-22,,vendor welds this joint fixed; need AgiBot docs or a sweep on Luka
+robot.mass_label,69,kg,docs,active,2026-10-22,"nameplate, photo IMG_5619 (2026-10-19)",manufacturer's label; compare robot total of vendor link masses 69.344
+joint.idx01_left_hip_roll.dynamics.damping,,N*m*s/rad,,missing,2026-10-22,,not in either vendor file; measure on Luka (plan P5)
+joint.idx01_left_hip_roll.dynamics.frictionloss,,N*m,,missing,2026-10-22,,not in either vendor file; measure on Luka (plan P5)
+joint.idx01_left_hip_roll.dynamics.armature,,kg*m^2,,missing,2026-10-22,,not in either vendor file; measure on Luka (plan P5)
+joint.idx02_left_hip_yaw.dynamics.damping,,N*m*s/rad,,missing,2026-10-22,,not in either vendor file; measure on Luka (plan P5)
+joint.idx02_left_hip_yaw.dynamics.frictionloss,,N*m,,missing,2026-10-22,,not in either vendor file; measure on Luka (plan P5)
+joint.idx02_left_hip_yaw.dynamics.armature,,kg*m^2,,missing,2026-10-22,,not in either vendor file; measure on Luka (plan P5)
+joint.idx03_left_hip_pitch.dynamics.damping,,N*m*s/rad,,missing,2026-10-22,,not in either vendor file; measure on Luka (plan P5)
+joint.idx03_left_hip_pitch.dynamics.frictionloss,,N*m,,missing,2026-10-22,,not in either vendor file; measure on Luka (plan P5)
+joint.idx03_left_hip_pitch.dynamics.armature,,kg*m^2,,missing,2026-10-22,,not in either vendor file; measure on Luka (plan P5)
+joint.idx04_left_tarsus.dynamics.damping,,N*m*s/rad,,missing,2026-10-22,,not in either vendor file; measure on Luka (plan P5)
+joint.idx04_left_tarsus.dynamics.frictionloss,,N*m,,missing,2026-10-22,,not in either vendor file; measure on Luka (plan P5)
+joint.idx04_left_tarsus.dynamics.armature,,kg*m^2,,missing,2026-10-22,,not in either vendor file; measure on Luka (plan P5)
+joint.idx05_left_toe_pitch.dynamics.damping,,N*m*s/rad,,missing,2026-10-22,,not in either vendor file; measure on Luka (plan P5)
+joint.idx05_left_toe_pitch.dynamics.frictionloss,,N*m,,missing,2026-10-22,,not in either vendor file; measure on Luka (plan P5)
+joint.idx05_left_toe_pitch.dynamics.armature,,kg*m^2,,missing,2026-10-22,,not in either vendor file; measure on Luka (plan P5)
+joint.idx06_left_toe_roll.dynamics.damping,,N*m*s/rad,,missing,2026-10-22,,not in either vendor file; measure on Luka (plan P5)
+joint.idx06_left_toe_roll.dynamics.frictionloss,,N*m,,missing,2026-10-22,,not in either vendor file; measure on Luka (plan P5)
+joint.idx06_left_toe_roll.dynamics.armature,,kg*m^2,,missing,2026-10-22,,not in either vendor file; measure on Luka (plan P5)
+joint.idx07_right_hip_roll.dynamics.damping,,N*m*s/rad,,missing,2026-10-22,,not in either vendor file; measure on Luka (plan P5)
+joint.idx07_right_hip_roll.dynamics.frictionloss,,N*m,,missing,2026-10-22,,not in either vendor file; measure on Luka (plan P5)
+joint.idx07_right_hip_roll.dynamics.armature,,kg*m^2,,missing,2026-10-22,,not in either vendor file; measure on Luka (plan P5)
+joint.idx08_right_hip_yaw.dynamics.damping,,N*m*s/rad,,missing,2026-10-22,,not in either vendor file; measure on Luka (plan P5)
+joint.idx08_right_hip_yaw.dynamics.frictionloss,,N*m,,missing,2026-10-22,,not in either vendor file; measure on Luka (plan P5)
+joint.idx08_right_hip_yaw.dynamics.armature,,kg*m^2,,missing,2026-10-22,,not in either vendor file; measure on Luka (plan P5)
+joint.idx09_right_hip_pitch.dynamics.damping,,N*m*s/rad,,missing,2026-10-22,,not in either vendor file; measure on Luka (plan P5)
+joint.idx09_right_hip_pitch.dynamics.frictionloss,,N*m,,missing,2026-10-22,,not in either vendor file; measure on Luka (plan P5)
+joint.idx09_right_hip_pitch.dynamics.armature,,kg*m^2,,missing,2026-10-22,,not in either vendor file; measure on Luka (plan P5)
+joint.idx10_right_tarsus.dynamics.damping,,N*m*s/rad,,missing,2026-10-22,,not in either vendor file; measure on Luka (plan P5)
+joint.idx10_right_tarsus.dynamics.frictionloss,,N*m,,missing,2026-10-22,,not in either vendor file; measure on Luka (plan P5)
+joint.idx10_right_tarsus.dynamics.armature,,kg*m^2,,missing,2026-10-22,,not in either vendor file; measure on Luka (plan P5)
+joint.idx11_right_toe_pitch.dynamics.damping,,N*m*s/rad,,missing,2026-10-22,,not in either vendor file; measure on Luka (plan P5)
+joint.idx11_right_toe_pitch.dynamics.frictionloss,,N*m,,missing,2026-10-22,,not in either vendor file; measure on Luka (plan P5)
+joint.idx11_right_toe_pitch.dynamics.armature,,kg*m^2,,missing,2026-10-22,,not in either vendor file; measure on Luka (plan P5)
+joint.idx12_right_toe_roll.dynamics.damping,,N*m*s/rad,,missing,2026-10-22,,not in either vendor file; measure on Luka (plan P5)
+joint.idx12_right_toe_roll.dynamics.frictionloss,,N*m,,missing,2026-10-22,,not in either vendor file; measure on Luka (plan P5)
+joint.idx12_right_toe_roll.dynamics.armature,,kg*m^2,,missing,2026-10-22,,not in either vendor file; measure on Luka (plan P5)
+joint.idx13_left_arm_joint1.dynamics.damping,,N*m*s/rad,,missing,2026-10-22,,not in either vendor file; measure on Luka (plan P5)
+joint.idx13_left_arm_joint1.dynamics.frictionloss,,N*m,,missing,2026-10-22,,not in either vendor file; measure on Luka (plan P5)
+joint.idx13_left_arm_joint1.dynamics.armature,,kg*m^2,,missing,2026-10-22,,not in either vendor file; measure on Luka (plan P5)
+joint.idx14_left_arm_joint2.dynamics.damping,,N*m*s/rad,,missing,2026-10-22,,not in either vendor file; measure on Luka (plan P5)
+joint.idx14_left_arm_joint2.dynamics.frictionloss,,N*m,,missing,2026-10-22,,not in either vendor file; measure on Luka (plan P5)
+joint.idx14_left_arm_joint2.dynamics.armature,,kg*m^2,,missing,2026-10-22,,not in either vendor file; measure on Luka (plan P5)
+joint.idx15_left_arm_joint3.dynamics.damping,,N*m*s/rad,,missing,2026-10-22,,not in either vendor file; measure on Luka (plan P5)
+joint.idx15_left_arm_joint3.dynamics.frictionloss,,N*m,,missing,2026-10-22,,not in either vendor file; measure on Luka (plan P5)
+joint.idx15_left_arm_joint3.dynamics.armature,,kg*m^2,,missing,2026-10-22,,not in either vendor file; measure on Luka (plan P5)
+joint.idx16_left_arm_joint4.dynamics.damping,,N*m*s/rad,,missing,2026-10-22,,not in either vendor file; measure on Luka (plan P5)
+joint.idx16_left_arm_joint4.dynamics.frictionloss,,N*m,,missing,2026-10-22,,not in either vendor file; measure on Luka (plan P5)
+joint.idx16_left_arm_joint4.dynamics.armature,,kg*m^2,,missing,2026-10-22,,not in either vendor file; measure on Luka (plan P5)
+joint.idx17_left_arm_joint5.dynamics.damping,,N*m*s/rad,,missing,2026-10-22,,not in either vendor file; measure on Luka (plan P5)
+joint.idx17_left_arm_joint5.dynamics.frictionloss,,N*m,,missing,2026-10-22,,not in either vendor file; measure on Luka (plan P5)
+joint.idx17_left_arm_joint5.dynamics.armature,,kg*m^2,,missing,2026-10-22,,not in either vendor file; measure on Luka (plan P5)
+joint.idx18_left_arm_joint6.dynamics.damping,,N*m*s/rad,,missing,2026-10-22,,not in either vendor file; measure on Luka (plan P5)
+joint.idx18_left_arm_joint6.dynamics.frictionloss,,N*m,,missing,2026-10-22,,not in either vendor file; measure on Luka (plan P5)
+joint.idx18_left_arm_joint6.dynamics.armature,,kg*m^2,,missing,2026-10-22,,not in either vendor file; measure on Luka (plan P5)
+joint.idx19_left_arm_joint7.dynamics.damping,,N*m*s/rad,,missing,2026-10-22,,not in either vendor file; measure on Luka (plan P5)
+joint.idx19_left_arm_joint7.dynamics.frictionloss,,N*m,,missing,2026-10-22,,not in either vendor file; measure on Luka (plan P5)
+joint.idx19_left_arm_joint7.dynamics.armature,,kg*m^2,,missing,2026-10-22,,not in either vendor file; measure on Luka (plan P5)
+joint.idx20_right_arm_joint1.dynamics.damping,,N*m*s/rad,,missing,2026-10-22,,not in either vendor file; measure on Luka (plan P5)
+joint.idx20_right_arm_joint1.dynamics.frictionloss,,N*m,,missing,2026-10-22,,not in either vendor file; measure on Luka (plan P5)
+joint.idx20_right_arm_joint1.dynamics.armature,,kg*m^2,,missing,2026-10-22,,not in either vendor file; measure on Luka (plan P5)
+joint.idx21_right_arm_joint2.dynamics.damping,,N*m*s/rad,,missing,2026-10-22,,not in either vendor file; measure on Luka (plan P5)
+joint.idx21_right_arm_joint2.dynamics.frictionloss,,N*m,,missing,2026-10-22,,not in either vendor file; measure on Luka (plan P5)
+joint.idx21_right_arm_joint2.dynamics.armature,,kg*m^2,,missing,2026-10-22,,not in either vendor file; measure on Luka (plan P5)
+joint.idx22_right_arm_joint3.dynamics.damping,,N*m*s/rad,,missing,2026-10-22,,not in either vendor file; measure on Luka (plan P5)
+joint.idx22_right_arm_joint3.dynamics.frictionloss,,N*m,,missing,2026-10-22,,not in either vendor file; measure on Luka (plan P5)
+joint.idx22_right_arm_joint3.dynamics.armature,,kg*m^2,,missing,2026-10-22,,not in either vendor file; measure on Luka (plan P5)
+joint.idx23_right_arm_joint4.dynamics.damping,,N*m*s/rad,,missing,2026-10-22,,not in either vendor file; measure on Luka (plan P5)
+joint.idx23_right_arm_joint4.dynamics.frictionloss,,N*m,,missing,2026-10-22,,not in either vendor file; measure on Luka (plan P5)
+joint.idx23_right_arm_joint4.dynamics.armature,,kg*m^2,,missing,2026-10-22,,not in either vendor file; measure on Luka (plan P5)
+joint.idx24_right_arm_joint5.dynamics.damping,,N*m*s/rad,,missing,2026-10-22,,not in either vendor file; measure on Luka (plan P5)
+joint.idx24_right_arm_joint5.dynamics.frictionloss,,N*m,,missing,2026-10-22,,not in either vendor file; measure on Luka (plan P5)
+joint.idx24_right_arm_joint5.dynamics.armature,,kg*m^2,,missing,2026-10-22,,not in either vendor file; measure on Luka (plan P5)
+joint.idx25_right_arm_joint6.dynamics.damping,,N*m*s/rad,,missing,2026-10-22,,not in either vendor file; measure on Luka (plan P5)
+joint.idx25_right_arm_joint6.dynamics.frictionloss,,N*m,,missing,2026-10-22,,not in either vendor file; measure on Luka (plan P5)
+joint.idx25_right_arm_joint6.dynamics.armature,,kg*m^2,,missing,2026-10-22,,not in either vendor file; measure on Luka (plan P5)
+joint.idx26_right_arm_joint7.dynamics.damping,,N*m*s/rad,,missing,2026-10-22,,not in either vendor file; measure on Luka (plan P5)
+joint.idx26_right_arm_joint7.dynamics.frictionloss,,N*m,,missing,2026-10-22,,not in either vendor file; measure on Luka (plan P5)
+joint.idx26_right_arm_joint7.dynamics.armature,,kg*m^2,,missing,2026-10-22,,not in either vendor file; measure on Luka (plan P5)
+joint.idx27_head_joint1.dynamics.damping,,N*m*s/rad,,missing,2026-10-22,,not in either vendor file; measure on Luka (plan P5)
+joint.idx27_head_joint1.dynamics.frictionloss,,N*m,,missing,2026-10-22,,not in either vendor file; measure on Luka (plan P5)
+joint.idx27_head_joint1.dynamics.armature,,kg*m^2,,missing,2026-10-22,,not in either vendor file; measure on Luka (plan P5)
+joint.idx28_head_joint2.dynamics.damping,,N*m*s/rad,,missing,2026-10-22,,not in either vendor file; measure on Luka (plan P5)
+joint.idx28_head_joint2.dynamics.frictionloss,,N*m,,missing,2026-10-22,,not in either vendor file; measure on Luka (plan P5)
+joint.idx28_head_joint2.dynamics.armature,,kg*m^2,,missing,2026-10-22,,not in either vendor file; measure on Luka (plan P5)
+link.left_hand.mass,1.6031401,kg,estimate,active,2026-10-22,"estimate: MuJoCo 3.17 inertia of the vendor visual mesh, solid at 1000 kg/m^3, collision hulls ignored (Michael's choice 2026-10-22)",ESTIMATE - neither vendor file gives this link a mass; replace with a weighed value
+link.left_hand.com.x,-0.012009789,m,estimate,active,2026-10-22,"estimate: MuJoCo 3.17 inertia of the vendor visual mesh, solid at 1000 kg/m^3, collision hulls ignored (Michael's choice 2026-10-22)",ESTIMATE - neither vendor file gives this link a mass; replace with a weighed value
+link.left_hand.com.y,0.0010481636,m,estimate,active,2026-10-22,"estimate: MuJoCo 3.17 inertia of the vendor visual mesh, solid at 1000 kg/m^3, collision hulls ignored (Michael's choice 2026-10-22)",ESTIMATE - neither vendor file gives this link a mass; replace with a weighed value
+link.left_hand.com.z,0.072291669,m,estimate,active,2026-10-22,"estimate: MuJoCo 3.17 inertia of the vendor visual mesh, solid at 1000 kg/m^3, collision hulls ignored (Michael's choice 2026-10-22)",ESTIMATE - neither vendor file gives this link a mass; replace with a weighed value
+link.left_hand.inertia.ixx,0.0020059849,kg*m^2,estimate,active,2026-10-22,"estimate: MuJoCo 3.17 inertia of the vendor visual mesh, solid at 1000 kg/m^3, collision hulls ignored (Michael's choice 2026-10-22)",ESTIMATE - neither vendor file gives this link a mass; replace with a weighed value
+link.left_hand.inertia.iyy,0.0035622373,kg*m^2,estimate,active,2026-10-22,"estimate: MuJoCo 3.17 inertia of the vendor visual mesh, solid at 1000 kg/m^3, collision hulls ignored (Michael's choice 2026-10-22)",ESTIMATE - neither vendor file gives this link a mass; replace with a weighed value
+link.left_hand.inertia.izz,0.0019569478,kg*m^2,estimate,active,2026-10-22,"estimate: MuJoCo 3.17 inertia of the vendor visual mesh, solid at 1000 kg/m^3, collision hulls ignored (Michael's choice 2026-10-22)",ESTIMATE - neither vendor file gives this link a mass; replace with a weighed value
+link.left_hand.inertia.ixy,-0.00035461581,kg*m^2,estimate,active,2026-10-22,"estimate: MuJoCo 3.17 inertia of the vendor visual mesh, solid at 1000 kg/m^3, collision hulls ignored (Michael's choice 2026-10-22)",ESTIMATE - neither vendor file gives this link a mass; replace with a weighed value
+link.left_hand.inertia.ixz,-6.9313871e-05,kg*m^2,estimate,active,2026-10-22,"estimate: MuJoCo 3.17 inertia of the vendor visual mesh, solid at 1000 kg/m^3, collision hulls ignored (Michael's choice 2026-10-22)",ESTIMATE - neither vendor file gives this link a mass; replace with a weighed value
+link.left_hand.inertia.iyz,-5.3540221e-05,kg*m^2,estimate,active,2026-10-22,"estimate: MuJoCo 3.17 inertia of the vendor visual mesh, solid at 1000 kg/m^3, collision hulls ignored (Michael's choice 2026-10-22)",ESTIMATE - neither vendor file gives this link a mass; replace with a weighed value
+link.left_wrist_motor_A.mass,0.15746024,kg,estimate,active,2026-10-22,"estimate: MuJoCo 3.17 inertia of the vendor visual mesh, solid at 1000 kg/m^3, collision hulls ignored (Michael's choice 2026-10-22)",ESTIMATE - neither vendor file gives this link a mass; replace with a weighed value
+link.left_wrist_motor_A.com.x,0.0050244876,m,estimate,active,2026-10-22,"estimate: MuJoCo 3.17 inertia of the vendor visual mesh, solid at 1000 kg/m^3, collision hulls ignored (Michael's choice 2026-10-22)",ESTIMATE - neither vendor file gives this link a mass; replace with a weighed value
+link.left_wrist_motor_A.com.y,0.0077314968,m,estimate,active,2026-10-22,"estimate: MuJoCo 3.17 inertia of the vendor visual mesh, solid at 1000 kg/m^3, collision hulls ignored (Michael's choice 2026-10-22)",ESTIMATE - neither vendor file gives this link a mass; replace with a weighed value
+link.left_wrist_motor_A.com.z,-0.056120679,m,estimate,active,2026-10-22,"estimate: MuJoCo 3.17 inertia of the vendor visual mesh, solid at 1000 kg/m^3, collision hulls ignored (Michael's choice 2026-10-22)",ESTIMATE - neither vendor file gives this link a mass; replace with a weighed value
+link.left_wrist_motor_A.inertia.ixx,0.00019593262,kg*m^2,estimate,active,2026-10-22,"estimate: MuJoCo 3.17 inertia of the vendor visual mesh, solid at 1000 kg/m^3, collision hulls ignored (Michael's choice 2026-10-22)",ESTIMATE - neither vendor file gives this link a mass; replace with a weighed value
+link.left_wrist_motor_A.inertia.iyy,0.00021213003,kg*m^2,estimate,active,2026-10-22,"estimate: MuJoCo 3.17 inertia of the vendor visual mesh, solid at 1000 kg/m^3, collision hulls ignored (Michael's choice 2026-10-22)",ESTIMATE - neither vendor file gives this link a mass; replace with a weighed value
+link.left_wrist_motor_A.inertia.izz,3.7748608e-05,kg*m^2,estimate,active,2026-10-22,"estimate: MuJoCo 3.17 inertia of the vendor visual mesh, solid at 1000 kg/m^3, collision hulls ignored (Michael's choice 2026-10-22)",ESTIMATE - neither vendor file gives this link a mass; replace with a weighed value
+link.left_wrist_motor_A.inertia.ixy,-9.4775448e-09,kg*m^2,estimate,active,2026-10-22,"estimate: MuJoCo 3.17 inertia of the vendor visual mesh, solid at 1000 kg/m^3, collision hulls ignored (Michael's choice 2026-10-22)",ESTIMATE - neither vendor file gives this link a mass; replace with a weighed value
+link.left_wrist_motor_A.inertia.ixz,-1.2386595e-07,kg*m^2,estimate,active,2026-10-22,"estimate: MuJoCo 3.17 inertia of the vendor visual mesh, solid at 1000 kg/m^3, collision hulls ignored (Michael's choice 2026-10-22)",ESTIMATE - neither vendor file gives this link a mass; replace with a weighed value
+link.left_wrist_motor_A.inertia.iyz,-8.023981e-06,kg*m^2,estimate,active,2026-10-22,"estimate: MuJoCo 3.17 inertia of the vendor visual mesh, solid at 1000 kg/m^3, collision hulls ignored (Michael's choice 2026-10-22)",ESTIMATE - neither vendor file gives this link a mass; replace with a weighed value
+link.left_wrist_rod_A.mass,0.0025165026,kg,estimate,active,2026-10-22,"estimate: MuJoCo 3.17 inertia of the vendor visual mesh, solid at 1000 kg/m^3, collision hulls ignored (Michael's choice 2026-10-22)",ESTIMATE - neither vendor file gives this link a mass; replace with a weighed value
+link.left_wrist_rod_A.com.x,9.0120003e-08,m,estimate,active,2026-10-22,"estimate: MuJoCo 3.17 inertia of the vendor visual mesh, solid at 1000 kg/m^3, collision hulls ignored (Michael's choice 2026-10-22)",ESTIMATE - neither vendor file gives this link a mass; replace with a weighed value
+link.left_wrist_rod_A.com.y,-1.9506614e-07,m,estimate,active,2026-10-22,"estimate: MuJoCo 3.17 inertia of the vendor visual mesh, solid at 1000 kg/m^3, collision hulls ignored (Michael's choice 2026-10-22)",ESTIMATE - neither vendor file gives this link a mass; replace with a weighed value
+link.left_wrist_rod_A.com.z,-0.0043174648,m,estimate,active,2026-10-22,"estimate: MuJoCo 3.17 inertia of the vendor visual mesh, solid at 1000 kg/m^3, collision hulls ignored (Michael's choice 2026-10-22)",ESTIMATE - neither vendor file gives this link a mass; replace with a weighed value
+link.left_wrist_rod_A.inertia.ixx,1.3960247e-07,kg*m^2,estimate,active,2026-10-22,"estimate: MuJoCo 3.17 inertia of the vendor visual mesh, solid at 1000 kg/m^3, collision hulls ignored (Michael's choice 2026-10-22)",ESTIMATE - neither vendor file gives this link a mass; replace with a weighed value
+link.left_wrist_rod_A.inertia.iyy,1.5773237e-07,kg*m^2,estimate,active,2026-10-22,"estimate: MuJoCo 3.17 inertia of the vendor visual mesh, solid at 1000 kg/m^3, collision hulls ignored (Michael's choice 2026-10-22)",ESTIMATE - neither vendor file gives this link a mass; replace with a weighed value
+link.left_wrist_rod_A.inertia.izz,2.8076074e-08,kg*m^2,estimate,active,2026-10-22,"estimate: MuJoCo 3.17 inertia of the vendor visual mesh, solid at 1000 kg/m^3, collision hulls ignored (Michael's choice 2026-10-22)",ESTIMATE - neither vendor file gives this link a mass; replace with a weighed value
+link.left_wrist_rod_A.inertia.ixy,6.6337658e-14,kg*m^2,estimate,active,2026-10-22,"estimate: MuJoCo 3.17 inertia of the vendor visual mesh, solid at 1000 kg/m^3, collision hulls ignored (Michael's choice 2026-10-22)",ESTIMATE - neither vendor file gives this link a mass; replace with a weighed value
+link.left_wrist_rod_A.inertia.ixz,3.4110632e-12,kg*m^2,estimate,active,2026-10-22,"estimate: MuJoCo 3.17 inertia of the vendor visual mesh, solid at 1000 kg/m^3, collision hulls ignored (Michael's choice 2026-10-22)",ESTIMATE - neither vendor file gives this link a mass; replace with a weighed value
+link.left_wrist_rod_A.inertia.iyz,-6.9280055e-12,kg*m^2,estimate,active,2026-10-22,"estimate: MuJoCo 3.17 inertia of the vendor visual mesh, solid at 1000 kg/m^3, collision hulls ignored (Michael's choice 2026-10-22)",ESTIMATE - neither vendor file gives this link a mass; replace with a weighed value
+link.left_wrist_motor_B.mass,0.15745734,kg,estimate,active,2026-10-22,"estimate: MuJoCo 3.17 inertia of the vendor visual mesh, solid at 1000 kg/m^3, collision hulls ignored (Michael's choice 2026-10-22)",ESTIMATE - neither vendor file gives this link a mass; replace with a weighed value
+link.left_wrist_motor_B.com.x,0.005021219,m,estimate,active,2026-10-22,"estimate: MuJoCo 3.17 inertia of the vendor visual mesh, solid at 1000 kg/m^3, collision hulls ignored (Michael's choice 2026-10-22)",ESTIMATE - neither vendor file gives this link a mass; replace with a weighed value
+link.left_wrist_motor_B.com.y,-0.0077320417,m,estimate,active,2026-10-22,"estimate: MuJoCo 3.17 inertia of the vendor visual mesh, solid at 1000 kg/m^3, collision hulls ignored (Michael's choice 2026-10-22)",ESTIMATE - neither vendor file gives this link a mass; replace with a weighed value
+link.left_wrist_motor_B.com.z,-0.056119937,m,estimate,active,2026-10-22,"estimate: MuJoCo 3.17 inertia of the vendor visual mesh, solid at 1000 kg/m^3, collision hulls ignored (Michael's choice 2026-10-22)",ESTIMATE - neither vendor file gives this link a mass; replace with a weighed value
+link.left_wrist_motor_B.inertia.ixx,0.0001959332,kg*m^2,estimate,active,2026-10-22,"estimate: MuJoCo 3.17 inertia of the vendor visual mesh, solid at 1000 kg/m^3, collision hulls ignored (Michael's choice 2026-10-22)",ESTIMATE - neither vendor file gives this link a mass; replace with a weighed value
+link.left_wrist_motor_B.inertia.iyy,0.00021212713,kg*m^2,estimate,active,2026-10-22,"estimate: MuJoCo 3.17 inertia of the vendor visual mesh, solid at 1000 kg/m^3, collision hulls ignored (Michael's choice 2026-10-22)",ESTIMATE - neither vendor file gives this link a mass; replace with a weighed value
+link.left_wrist_motor_B.inertia.izz,3.7746396e-05,kg*m^2,estimate,active,2026-10-22,"estimate: MuJoCo 3.17 inertia of the vendor visual mesh, solid at 1000 kg/m^3, collision hulls ignored (Michael's choice 2026-10-22)",ESTIMATE - neither vendor file gives this link a mass; replace with a weighed value
+link.left_wrist_motor_B.inertia.ixy,1.8021904e-09,kg*m^2,estimate,active,2026-10-22,"estimate: MuJoCo 3.17 inertia of the vendor visual mesh, solid at 1000 kg/m^3, collision hulls ignored (Michael's choice 2026-10-22)",ESTIMATE - neither vendor file gives this link a mass; replace with a weighed value
+link.left_wrist_motor_B.inertia.ixz,-1.1827757e-07,kg*m^2,estimate,active,2026-10-22,"estimate: MuJoCo 3.17 inertia of the vendor visual mesh, solid at 1000 kg/m^3, collision hulls ignored (Michael's choice 2026-10-22)",ESTIMATE - neither vendor file gives this link a mass; replace with a weighed value
+link.left_wrist_motor_B.inertia.iyz,8.0276414e-06,kg*m^2,estimate,active,2026-10-22,"estimate: MuJoCo 3.17 inertia of the vendor visual mesh, solid at 1000 kg/m^3, collision hulls ignored (Michael's choice 2026-10-22)",ESTIMATE - neither vendor file gives this link a mass; replace with a weighed value
+link.left_wrist_rod_B.mass,0.0025165027,kg,estimate,active,2026-10-22,"estimate: MuJoCo 3.17 inertia of the vendor visual mesh, solid at 1000 kg/m^3, collision hulls ignored (Michael's choice 2026-10-22)",ESTIMATE - neither vendor file gives this link a mass; replace with a weighed value
+link.left_wrist_rod_B.com.x,9.0100439e-08,m,estimate,active,2026-10-22,"estimate: MuJoCo 3.17 inertia of the vendor visual mesh, solid at 1000 kg/m^3, collision hulls ignored (Michael's choice 2026-10-22)",ESTIMATE - neither vendor file gives this link a mass; replace with a weighed value
+link.left_wrist_rod_B.com.y,-1.95078e-07,m,estimate,active,2026-10-22,"estimate: MuJoCo 3.17 inertia of the vendor visual mesh, solid at 1000 kg/m^3, collision hulls ignored (Michael's choice 2026-10-22)",ESTIMATE - neither vendor file gives this link a mass; replace with a weighed value
+link.left_wrist_rod_B.com.z,-0.0042026557,m,estimate,active,2026-10-22,"estimate: MuJoCo 3.17 inertia of the vendor visual mesh, solid at 1000 kg/m^3, collision hulls ignored (Michael's choice 2026-10-22)",ESTIMATE - neither vendor file gives this link a mass; replace with a weighed value
+link.left_wrist_rod_B.inertia.ixx,1.3960247e-07,kg*m^2,estimate,active,2026-10-22,"estimate: MuJoCo 3.17 inertia of the vendor visual mesh, solid at 1000 kg/m^3, collision hulls ignored (Michael's choice 2026-10-22)",ESTIMATE - neither vendor file gives this link a mass; replace with a weighed value
+link.left_wrist_rod_B.inertia.iyy,1.5773237e-07,kg*m^2,estimate,active,2026-10-22,"estimate: MuJoCo 3.17 inertia of the vendor visual mesh, solid at 1000 kg/m^3, collision hulls ignored (Michael's choice 2026-10-22)",ESTIMATE - neither vendor file gives this link a mass; replace with a weighed value
+link.left_wrist_rod_B.inertia.izz,2.8076074e-08,kg*m^2,estimate,active,2026-10-22,"estimate: MuJoCo 3.17 inertia of the vendor visual mesh, solid at 1000 kg/m^3, collision hulls ignored (Michael's choice 2026-10-22)",ESTIMATE - neither vendor file gives this link a mass; replace with a weighed value
+link.left_wrist_rod_B.inertia.ixy,6.6385345e-14,kg*m^2,estimate,active,2026-10-22,"estimate: MuJoCo 3.17 inertia of the vendor visual mesh, solid at 1000 kg/m^3, collision hulls ignored (Michael's choice 2026-10-22)",ESTIMATE - neither vendor file gives this link a mass; replace with a weighed value
+link.left_wrist_rod_B.inertia.ixz,3.4106767e-12,kg*m^2,estimate,active,2026-10-22,"estimate: MuJoCo 3.17 inertia of the vendor visual mesh, solid at 1000 kg/m^3, collision hulls ignored (Michael's choice 2026-10-22)",ESTIMATE - neither vendor file gives this link a mass; replace with a weighed value
+link.left_wrist_rod_B.inertia.iyz,-6.9282076e-12,kg*m^2,estimate,active,2026-10-22,"estimate: MuJoCo 3.17 inertia of the vendor visual mesh, solid at 1000 kg/m^3, collision hulls ignored (Michael's choice 2026-10-22)",ESTIMATE - neither vendor file gives this link a mass; replace with a weighed value
+link.right_hand.mass,1.6031435,kg,estimate,active,2026-10-22,"estimate: MuJoCo 3.17 inertia of the vendor visual mesh, solid at 1000 kg/m^3, collision hulls ignored (Michael's choice 2026-10-22)",ESTIMATE - neither vendor file gives this link a mass; replace with a weighed value
+link.right_hand.com.x,-0.012009782,m,estimate,active,2026-10-22,"estimate: MuJoCo 3.17 inertia of the vendor visual mesh, solid at 1000 kg/m^3, collision hulls ignored (Michael's choice 2026-10-22)",ESTIMATE - neither vendor file gives this link a mass; replace with a weighed value
+link.right_hand.com.y,-0.0010481762,m,estimate,active,2026-10-22,"estimate: MuJoCo 3.17 inertia of the vendor visual mesh, solid at 1000 kg/m^3, collision hulls ignored (Michael's choice 2026-10-22)",ESTIMATE - neither vendor file gives this link a mass; replace with a weighed value
+link.right_hand.com.z,0.072291689,m,estimate,active,2026-10-22,"estimate: MuJoCo 3.17 inertia of the vendor visual mesh, solid at 1000 kg/m^3, collision hulls ignored (Michael's choice 2026-10-22)",ESTIMATE - neither vendor file gives this link a mass; replace with a weighed value
+link.right_hand.inertia.ixx,0.0020059857,kg*m^2,estimate,active,2026-10-22,"estimate: MuJoCo 3.17 inertia of the vendor visual mesh, solid at 1000 kg/m^3, collision hulls ignored (Michael's choice 2026-10-22)",ESTIMATE - neither vendor file gives this link a mass; replace with a weighed value
+link.right_hand.inertia.iyy,0.0035622396,kg*m^2,estimate,active,2026-10-22,"estimate: MuJoCo 3.17 inertia of the vendor visual mesh, solid at 1000 kg/m^3, collision hulls ignored (Michael's choice 2026-10-22)",ESTIMATE - neither vendor file gives this link a mass; replace with a weighed value
+link.right_hand.inertia.izz,0.0019569497,kg*m^2,estimate,active,2026-10-22,"estimate: MuJoCo 3.17 inertia of the vendor visual mesh, solid at 1000 kg/m^3, collision hulls ignored (Michael's choice 2026-10-22)",ESTIMATE - neither vendor file gives this link a mass; replace with a weighed value
+link.right_hand.inertia.ixy,0.00035461617,kg*m^2,estimate,active,2026-10-22,"estimate: MuJoCo 3.17 inertia of the vendor visual mesh, solid at 1000 kg/m^3, collision hulls ignored (Michael's choice 2026-10-22)",ESTIMATE - neither vendor file gives this link a mass; replace with a weighed value
+link.right_hand.inertia.ixz,-6.9314344e-05,kg*m^2,estimate,active,2026-10-22,"estimate: MuJoCo 3.17 inertia of the vendor visual mesh, solid at 1000 kg/m^3, collision hulls ignored (Michael's choice 2026-10-22)",ESTIMATE - neither vendor file gives this link a mass; replace with a weighed value
+link.right_hand.inertia.iyz,5.3540514e-05,kg*m^2,estimate,active,2026-10-22,"estimate: MuJoCo 3.17 inertia of the vendor visual mesh, solid at 1000 kg/m^3, collision hulls ignored (Michael's choice 2026-10-22)",ESTIMATE - neither vendor file gives this link a mass; replace with a weighed value
+link.right_wrist_motor_A.mass,0.15745962,kg,estimate,active,2026-10-22,"estimate: MuJoCo 3.17 inertia of the vendor visual mesh, solid at 1000 kg/m^3, collision hulls ignored (Michael's choice 2026-10-22)",ESTIMATE - neither vendor file gives this link a mass; replace with a weighed value
+link.right_wrist_motor_A.com.x,-0.0058525522,m,estimate,active,2026-10-22,"estimate: MuJoCo 3.17 inertia of the vendor visual mesh, solid at 1000 kg/m^3, collision hulls ignored (Michael's choice 2026-10-22)",ESTIMATE - neither vendor file gives this link a mass; replace with a weighed value
+link.right_wrist_motor_A.com.y,0.0077322543,m,estimate,active,2026-10-22,"estimate: MuJoCo 3.17 inertia of the vendor visual mesh, solid at 1000 kg/m^3, collision hulls ignored (Michael's choice 2026-10-22)",ESTIMATE - neither vendor file gives this link a mass; replace with a weighed value
+link.right_wrist_motor_A.com.z,-0.056040751,m,estimate,active,2026-10-22,"estimate: MuJoCo 3.17 inertia of the vendor visual mesh, solid at 1000 kg/m^3, collision hulls ignored (Michael's choice 2026-10-22)",ESTIMATE - neither vendor file gives this link a mass; replace with a weighed value
+link.right_wrist_motor_A.inertia.ixx,0.00019590474,kg*m^2,estimate,active,2026-10-22,"estimate: MuJoCo 3.17 inertia of the vendor visual mesh, solid at 1000 kg/m^3, collision hulls ignored (Michael's choice 2026-10-22)",ESTIMATE - neither vendor file gives this link a mass; replace with a weighed value
+link.right_wrist_motor_A.inertia.iyy,0.00021213091,kg*m^2,estimate,active,2026-10-22,"estimate: MuJoCo 3.17 inertia of the vendor visual mesh, solid at 1000 kg/m^3, collision hulls ignored (Michael's choice 2026-10-22)",ESTIMATE - neither vendor file gives this link a mass; replace with a weighed value
+link.right_wrist_motor_A.inertia.izz,3.7778799e-05,kg*m^2,estimate,active,2026-10-22,"estimate: MuJoCo 3.17 inertia of the vendor visual mesh, solid at 1000 kg/m^3, collision hulls ignored (Michael's choice 2026-10-22)",ESTIMATE - neither vendor file gives this link a mass; replace with a weighed value
+link.right_wrist_motor_A.inertia.ixy,-1.1764718e-07,kg*m^2,estimate,active,2026-10-22,"estimate: MuJoCo 3.17 inertia of the vendor visual mesh, solid at 1000 kg/m^3, collision hulls ignored (Michael's choice 2026-10-22)",ESTIMATE - neither vendor file gives this link a mass; replace with a weighed value
+link.right_wrist_motor_A.inertia.ixz,-2.224352e-06,kg*m^2,estimate,active,2026-10-22,"estimate: MuJoCo 3.17 inertia of the vendor visual mesh, solid at 1000 kg/m^3, collision hulls ignored (Michael's choice 2026-10-22)",ESTIMATE - neither vendor file gives this link a mass; replace with a weighed value
+link.right_wrist_motor_A.inertia.iyz,-8.0260781e-06,kg*m^2,estimate,active,2026-10-22,"estimate: MuJoCo 3.17 inertia of the vendor visual mesh, solid at 1000 kg/m^3, collision hulls ignored (Michael's choice 2026-10-22)",ESTIMATE - neither vendor file gives this link a mass; replace with a weighed value
+link.right_wrist_rod_A.mass,0.0025161865,kg,estimate,active,2026-10-22,"estimate: MuJoCo 3.17 inertia of the vendor visual mesh, solid at 1000 kg/m^3, collision hulls ignored (Michael's choice 2026-10-22)",ESTIMATE - neither vendor file gives this link a mass; replace with a weighed value
+link.right_wrist_rod_A.com.x,2.24664e-08,m,estimate,active,2026-10-22,"estimate: MuJoCo 3.17 inertia of the vendor visual mesh, solid at 1000 kg/m^3, collision hulls ignored (Michael's choice 2026-10-22)",ESTIMATE - neither vendor file gives this link a mass; replace with a weighed value
+link.right_wrist_rod_A.com.y,-2.0314054e-07,m,estimate,active,2026-10-22,"estimate: MuJoCo 3.17 inertia of the vendor visual mesh, solid at 1000 kg/m^3, collision hulls ignored (Michael's choice 2026-10-22)",ESTIMATE - neither vendor file gives this link a mass; replace with a weighed value
+link.right_wrist_rod_A.com.z,-0.0043173695,m,estimate,active,2026-10-22,"estimate: MuJoCo 3.17 inertia of the vendor visual mesh, solid at 1000 kg/m^3, collision hulls ignored (Michael's choice 2026-10-22)",ESTIMATE - neither vendor file gives this link a mass; replace with a weighed value
+link.right_wrist_rod_A.inertia.ixx,1.3957985e-07,kg*m^2,estimate,active,2026-10-22,"estimate: MuJoCo 3.17 inertia of the vendor visual mesh, solid at 1000 kg/m^3, collision hulls ignored (Michael's choice 2026-10-22)",ESTIMATE - neither vendor file gives this link a mass; replace with a weighed value
+link.right_wrist_rod_A.inertia.iyy,1.577097e-07,kg*m^2,estimate,active,2026-10-22,"estimate: MuJoCo 3.17 inertia of the vendor visual mesh, solid at 1000 kg/m^3, collision hulls ignored (Michael's choice 2026-10-22)",ESTIMATE - neither vendor file gives this link a mass; replace with a weighed value
+link.right_wrist_rod_A.inertia.izz,2.8074755e-08,kg*m^2,estimate,active,2026-10-22,"estimate: MuJoCo 3.17 inertia of the vendor visual mesh, solid at 1000 kg/m^3, collision hulls ignored (Michael's choice 2026-10-22)",ESTIMATE - neither vendor file gives this link a mass; replace with a weighed value
+link.right_wrist_rod_A.inertia.ixy,9.035327e-14,kg*m^2,estimate,active,2026-10-22,"estimate: MuJoCo 3.17 inertia of the vendor visual mesh, solid at 1000 kg/m^3, collision hulls ignored (Michael's choice 2026-10-22)",ESTIMATE - neither vendor file gives this link a mass; replace with a weighed value
+link.right_wrist_rod_A.inertia.ixz,1.1872748e-12,kg*m^2,estimate,active,2026-10-22,"estimate: MuJoCo 3.17 inertia of the vendor visual mesh, solid at 1000 kg/m^3, collision hulls ignored (Michael's choice 2026-10-22)",ESTIMATE - neither vendor file gives this link a mass; replace with a weighed value
+link.right_wrist_rod_A.inertia.iyz,-6.9925171e-12,kg*m^2,estimate,active,2026-10-22,"estimate: MuJoCo 3.17 inertia of the vendor visual mesh, solid at 1000 kg/m^3, collision hulls ignored (Michael's choice 2026-10-22)",ESTIMATE - neither vendor file gives this link a mass; replace with a weighed value
+link.right_wrist_motor_B.mass,0.15746048,kg,estimate,active,2026-10-22,"estimate: MuJoCo 3.17 inertia of the vendor visual mesh, solid at 1000 kg/m^3, collision hulls ignored (Michael's choice 2026-10-22)",ESTIMATE - neither vendor file gives this link a mass; replace with a weighed value
+link.right_wrist_motor_B.com.x,-0.0058548907,m,estimate,active,2026-10-22,"estimate: MuJoCo 3.17 inertia of the vendor visual mesh, solid at 1000 kg/m^3, collision hulls ignored (Michael's choice 2026-10-22)",ESTIMATE - neither vendor file gives this link a mass; replace with a weighed value
+link.right_wrist_motor_B.com.y,-0.0077314853,m,estimate,active,2026-10-22,"estimate: MuJoCo 3.17 inertia of the vendor visual mesh, solid at 1000 kg/m^3, collision hulls ignored (Michael's choice 2026-10-22)",ESTIMATE - neither vendor file gives this link a mass; replace with a weighed value
+link.right_wrist_motor_B.com.z,-0.056040064,m,estimate,active,2026-10-22,"estimate: MuJoCo 3.17 inertia of the vendor visual mesh, solid at 1000 kg/m^3, collision hulls ignored (Michael's choice 2026-10-22)",ESTIMATE - neither vendor file gives this link a mass; replace with a weighed value
+link.right_wrist_motor_B.inertia.ixx,0.00019590448,kg*m^2,estimate,active,2026-10-22,"estimate: MuJoCo 3.17 inertia of the vendor visual mesh, solid at 1000 kg/m^3, collision hulls ignored (Michael's choice 2026-10-22)",ESTIMATE - neither vendor file gives this link a mass; replace with a weighed value
+link.right_wrist_motor_B.inertia.iyy,0.0002121327,kg*m^2,estimate,active,2026-10-22,"estimate: MuJoCo 3.17 inertia of the vendor visual mesh, solid at 1000 kg/m^3, collision hulls ignored (Michael's choice 2026-10-22)",ESTIMATE - neither vendor file gives this link a mass; replace with a weighed value
+link.right_wrist_motor_B.inertia.izz,3.7779469e-05,kg*m^2,estimate,active,2026-10-22,"estimate: MuJoCo 3.17 inertia of the vendor visual mesh, solid at 1000 kg/m^3, collision hulls ignored (Michael's choice 2026-10-22)",ESTIMATE - neither vendor file gives this link a mass; replace with a weighed value
+link.right_wrist_motor_B.inertia.ixy,1.0904694e-07,kg*m^2,estimate,active,2026-10-22,"estimate: MuJoCo 3.17 inertia of the vendor visual mesh, solid at 1000 kg/m^3, collision hulls ignored (Michael's choice 2026-10-22)",ESTIMATE - neither vendor file gives this link a mass; replace with a weighed value
+link.right_wrist_motor_B.inertia.ixz,-2.2191261e-06,kg*m^2,estimate,active,2026-10-22,"estimate: MuJoCo 3.17 inertia of the vendor visual mesh, solid at 1000 kg/m^3, collision hulls ignored (Michael's choice 2026-10-22)",ESTIMATE - neither vendor file gives this link a mass; replace with a weighed value
+link.right_wrist_motor_B.inertia.iyz,8.0233395e-06,kg*m^2,estimate,active,2026-10-22,"estimate: MuJoCo 3.17 inertia of the vendor visual mesh, solid at 1000 kg/m^3, collision hulls ignored (Michael's choice 2026-10-22)",ESTIMATE - neither vendor file gives this link a mass; replace with a weighed value
+link.right_wrist_rod_B.mass,0.0025161866,kg,estimate,active,2026-10-22,"estimate: MuJoCo 3.17 inertia of the vendor visual mesh, solid at 1000 kg/m^3, collision hulls ignored (Michael's choice 2026-10-22)",ESTIMATE - neither vendor file gives this link a mass; replace with a weighed value
+link.right_wrist_rod_B.com.x,-2.2463033e-08,m,estimate,active,2026-10-22,"estimate: MuJoCo 3.17 inertia of the vendor visual mesh, solid at 1000 kg/m^3, collision hulls ignored (Michael's choice 2026-10-22)",ESTIMATE - neither vendor file gives this link a mass; replace with a weighed value
+link.right_wrist_rod_B.com.y,2.0368278e-07,m,estimate,active,2026-10-22,"estimate: MuJoCo 3.17 inertia of the vendor visual mesh, solid at 1000 kg/m^3, collision hulls ignored (Michael's choice 2026-10-22)",ESTIMATE - neither vendor file gives this link a mass; replace with a weighed value
+link.right_wrist_rod_B.com.z,-0.0042025608,m,estimate,active,2026-10-22,"estimate: MuJoCo 3.17 inertia of the vendor visual mesh, solid at 1000 kg/m^3, collision hulls ignored (Michael's choice 2026-10-22)",ESTIMATE - neither vendor file gives this link a mass; replace with a weighed value
+link.right_wrist_rod_B.inertia.ixx,1.3957987e-07,kg*m^2,estimate,active,2026-10-22,"estimate: MuJoCo 3.17 inertia of the vendor visual mesh, solid at 1000 kg/m^3, collision hulls ignored (Michael's choice 2026-10-22)",ESTIMATE - neither vendor file gives this link a mass; replace with a weighed value
+link.right_wrist_rod_B.inertia.iyy,1.5770972e-07,kg*m^2,estimate,active,2026-10-22,"estimate: MuJoCo 3.17 inertia of the vendor visual mesh, solid at 1000 kg/m^3, collision hulls ignored (Michael's choice 2026-10-22)",ESTIMATE - neither vendor file gives this link a mass; replace with a weighed value
+link.right_wrist_rod_B.inertia.izz,2.8074755e-08,kg*m^2,estimate,active,2026-10-22,"estimate: MuJoCo 3.17 inertia of the vendor visual mesh, solid at 1000 kg/m^3, collision hulls ignored (Michael's choice 2026-10-22)",ESTIMATE - neither vendor file gives this link a mass; replace with a weighed value
+link.right_wrist_rod_B.inertia.ixy,9.0353216e-14,kg*m^2,estimate,active,2026-10-22,"estimate: MuJoCo 3.17 inertia of the vendor visual mesh, solid at 1000 kg/m^3, collision hulls ignored (Michael's choice 2026-10-22)",ESTIMATE - neither vendor file gives this link a mass; replace with a weighed value
+link.right_wrist_rod_B.inertia.ixz,-1.1871814e-12,kg*m^2,estimate,active,2026-10-22,"estimate: MuJoCo 3.17 inertia of the vendor visual mesh, solid at 1000 kg/m^3, collision hulls ignored (Michael's choice 2026-10-22)",ESTIMATE - neither vendor file gives this link a mass; replace with a weighed value
+link.right_wrist_rod_B.inertia.iyz,6.9941587e-12,kg*m^2,estimate,active,2026-10-22,"estimate: MuJoCo 3.17 inertia of the vendor visual mesh, solid at 1000 kg/m^3, collision hulls ignored (Michael's choice 2026-10-22)",ESTIMATE - neither vendor file gives this link a mass; replace with a weighed value

@@ -1,0 +1,12 @@
+id,description,unit,vendor_value,luka_left,luka_right,luka_value,date,evidence
+M01,"Top of head to sole, legs straight",m,1.6913,,,,,
+M02,"Shoulder actuator centre, left to right",m,0.3820,,,,,
+M03,"Shoulder centre to elbow centre (upper arm), per side",m,0.2470,,,,,
+M04,"Elbow centre to wrist centre (forearm), per side",m,0.2627,,,,,
+M05,"Hip-pitch actuator centre, left to right",m,0.2500,,,,,
+M06,"Hip-pitch centre to knee centre (thigh), per side",m,0.3400,,,,,
+M07,"Knee centre to ankle centre (shin), per side",m,0.3770,,,,,
+M08,"Ankle centre to sole, per side",m,0.0591,,,,,
+M09,Shoulder centre to sole,m,1.3289,,,,,
+M10,"Widest point across, arms hanging",m,0.7494,,,,,
+M11,Weight (crane scale on the hoist),kg,69.344,,,,,
