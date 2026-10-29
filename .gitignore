@@ -5,3 +5,4 @@ __pycache__/
 build/*.mjb
 build/rebuilt*
 preview-local.png
+isaac_sim/generated/

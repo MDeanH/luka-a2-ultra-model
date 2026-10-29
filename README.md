@@ -16,6 +16,10 @@ Start with the [MuJoCo simulation guide](sim/README.md). It includes a separate 
 
 The floating model falls under zero control, and the fixed-base example tunes PD gains for a synthetic leg posture task. Neither is a validated walking or balance environment for Luka. The vendor x86 balance controller is not modeled here.
 
+## NVIDIA Isaac Sim
+
+See [the Isaac Sim 6.2 guide](isaac_sim/README.md) to import the private onboard URDF bundle into a fixed-base USD scene and run a model check. The public 28-joint candidate remains available as a comparison source.
+
 ## What is in this repository
 
 - `build/luka_as_is.xml` — generated, readable MuJoCo model; its numeric values are rounded by MuJoCo's XML writer.
